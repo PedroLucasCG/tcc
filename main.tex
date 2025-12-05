@@ -1,0 +1,68 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{graphicx}
+\usepackage{mathptmx}
+\usepackage{ragged2e} 
+\usepackage{parskip}
+\usepackage{csquotes}
+\usepackage[backend=biber,
+            style=abnt,
+            language=brazil,
+            autolang=other]{biblatex}
+
+\DeclareLanguageMapping{brazil}{brazilian-abnt}
+
+\addbibresource{bibtex/refs.bib}
+
+% Definindo margens e espaçamento
+\usepackage[a4paper, top=3cm, left=3cm, right=2cm, bottom=2cm]{geometry}
+
+% Definindo tamanhos de fonte
+\newcommand{\hugefont}{\fontsize{16}{18}\selectfont}  % 16pt
+\newcommand{\largefont}{\fontsize{14}{16}\selectfont}  % 14pt
+\newcommand{\normalsizefont}{\fontsize{12}{14}\selectfont}  % 12pt
+\newcommand{\smallfont}{\fontsize{10}{12}\selectfont}  % 10pt
+
+\renewcommand{\listfigurename}{LISTA DE FIGURAS}
+\renewcommand{\listtablename}{LISTA DE TABELAS}
+\renewcommand{\contentsname}{SUMÁRIO}
+\setlength{\emergencystretch}{3em}
+
+\begin{document}
+
+% Título
+\input{titlepage.tex}
+
+% Contra página
+\input{secondtitle.tex}
+
+% Agradecimentos
+\input{sections/agradecimentos.tex}
+
+% Resumo PT BR
+\input{sections/resumo.tex}
+
+% Resumo ENG
+\input{sections/abstract.tex}
+
+% Lista Figuras
+\input{sections/lista_figuras.tex}
+
+% Lista Tabelas
+\input{sections/lista_tabelas.tex}
+
+% Lista Acrônimos
+\input{sections/lista_acronimos.tex}
+
+% Sumário
+\input{sections/sumario.tex}
+
+% Introdução
+\input{chapters/introducao.tex}
+
+% Referências
+\clearpage
+\printbibliography[title={REFERÊNCIAS}]
+
+\end{document}

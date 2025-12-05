@@ -1,0 +1,103 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{tanenbaum2015mos}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2414455c999bc471f803cd14fdea939d}{%
+           family={Tanenbaum},
+           familyi={T\bibinitperiod},
+           given={Andrew\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02997b67b6ffe1ea8e813dd2f362f33d}{%
+           family={Bos},
+           familyi={B\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{da75650913b9d6ae1cb262f4e7389a5c}
+      \strng{fullhash}{da75650913b9d6ae1cb262f4e7389a5c}
+      \strng{bibnamehash}{da75650913b9d6ae1cb262f4e7389a5c}
+      \strng{authorbibnamehash}{da75650913b9d6ae1cb262f4e7389a5c}
+      \strng{authornamehash}{da75650913b9d6ae1cb262f4e7389a5c}
+      \strng{authorfullhash}{da75650913b9d6ae1cb262f4e7389a5c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{Modern Operating Systems}
+      \field{year}{2015}
+    \endentry
+    \entry{tanenbaum2007dist}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2414455c999bc471f803cd14fdea939d}{%
+           family={Tanenbaum},
+           familyi={T\bibinitperiod},
+           given={Andrew\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ef720d0b57800861b86b5ce45425837}{%
+           family={Steen},
+           familyi={S\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Prentice Hall}%
+      }
+      \strng{namehash}{725b361b521b2f1b1858b647cbe2cfcb}
+      \strng{fullhash}{725b361b521b2f1b1858b647cbe2cfcb}
+      \strng{bibnamehash}{725b361b521b2f1b1858b647cbe2cfcb}
+      \strng{authorbibnamehash}{725b361b521b2f1b1858b647cbe2cfcb}
+      \strng{authornamehash}{725b361b521b2f1b1858b647cbe2cfcb}
+      \strng{authorfullhash}{725b361b521b2f1b1858b647cbe2cfcb}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{note}{Disponível em: https://csc-knu.github.io/sys-prog/books/Andrew\%20S.\%20Tanenbaum\%20-\%20Distributed\%20Systems.\%20Principles\%20and\%20Paradigms.pdf. Acesso em: 20 jul. 2025}
+      \field{title}{Sistemas distribuídos: princípios e paradigmas}
+      \field{year}{2007}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
