@@ -4,7 +4,9 @@
 \usepackage{graphicx}
 \usepackage{mathptmx}
 \usepackage{ragged2e} 
+\usepackage{setspace}
 \usepackage{parskip}
+\usepackage{indentfirst} 
 \usepackage{csquotes}
 \usepackage[backend=biber,
             style=abnt,
@@ -24,10 +26,19 @@
 \newcommand{\normalsizefont}{\fontsize{12}{14}\selectfont}  % 12pt
 \newcommand{\smallfont}{\fontsize{10}{12}\selectfont}  % 10pt
 
-\renewcommand{\listfigurename}{LISTA DE FIGURAS}
-\renewcommand{\listtablename}{LISTA DE TABELAS}
-\renewcommand{\contentsname}{SUMÁRIO}
+% Espaçamento e indentação
+\setstretch{1.5}
+\setlength{\parskip}{18pt}
+\setlength{\parindent}{1.5cm}
 \setlength{\emergencystretch}{3em}
+
+% Redefinições de listas
+\makeatletter
+\renewcommand\listoffigures{\@starttoc{lof}}
+\renewcommand\listoftables{\@starttoc{lot}}
+\renewcommand\tableofcontents{\@starttoc{toc}}
+\renewcommand{\contentsname}{}
+\makeatother
 
 \begin{document}
 
@@ -53,7 +64,10 @@
 \input{sections/lista_tabelas.tex}
 
 % Lista Acrônimos
+\pagestyle{empty} 
 \input{sections/lista_acronimos.tex}
+\clearpage
+\pagestyle{plain} 
 
 % Sumário
 \input{sections/sumario.tex}
