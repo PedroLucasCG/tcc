@@ -8,6 +8,7 @@
 \usepackage{parskip}
 \usepackage{indentfirst} 
 \usepackage{csquotes}
+\usepackage{enumitem}
 \usepackage[backend=biber,
             style=abnt,
             language=brazil,
@@ -26,11 +27,19 @@
 \newcommand{\normalsizefont}{\fontsize{12}{14}\selectfont}  % 12pt
 \newcommand{\smallfont}{\fontsize{10}{12}\selectfont}  % 10pt
 
+% Textos em itálico
+\newcommand{\en}[1]{\textit{#1}}
+
 % Espaçamento e indentação
 \setstretch{1.5}
 \setlength{\parskip}{18pt}
 \setlength{\parindent}{1.5cm}
 \setlength{\emergencystretch}{3em}
+
+% Aumentar tolerância para evitar underfull warnings
+\tolerance=1000
+\emergencystretch=3em
+\hbadness=10000
 
 % Redefinições de listas
 \makeatletter
