@@ -1,0 +1,46 @@
+\section{REFERÊNCIAL TEÓRICO}
+
+Esta seção apresenta conceitos necessários para o desenvolvimento do trabalho, sendo esses: descrição das tecnologias usadas para a construção aplicação (Go, Kotlin, redes \en{Peer-to-Peer}), diferentes tipos de estratégias de sincronização e tópicos essenciais para o seu entendimento tão como comparações com trabalhos adjacentes.
+
+\subsection{CONCEITOS ESSENCIAIS PARA A CONSTRUÇÃO DA APLICAÇÃO MÓVEL}
+
+A aplicação consistem em leitor de \en{ePub} com a possibilidade de fazer anotações, a sincronização será feita a partir dos compartilhamento dessas anotações na rede, todos os pares deveram ter as anotações dos demais. Desse modo, as tecnologias relevantes são: Go e Kotlin para linguagens de programação e SQLite para banco de dados local, onde os dados serão armazenados quando no dispositivo celular do usuário.
+
+\subsubsection{SISTEMAS \en{OFFLINE-FIRST}}
+
+\subsubsection{LINGUAGEM DE PROGRAMAÇÃO: Kotlin}
+
+\subsubsection{BANCO DE DADOS: SQLite}
+
+\subsection{CONCEITOS ESSENCIAIS DO \en{MIDDLEWARE} DE \\ SINCRONIZAÇÃO}
+
+\subsubsection{REDES \en{PEER-TO-PEER}}
+
+\subsubsection{LINGUAGEM DE PROGRAMAÇÃO: Go}
+Go é uma linguagem de programação simimilar a linguagem C, dela herdou a sintáse de expressões, tipos de dados básicos e a ênfase em programas que compilam para código de máquina eficiente. Criada por Robert Griesemer, Rob Pike, e Ken Thompson, todos da \en{Google}, em 2007 para resolver o problema crescente da complexidade dos sistema da empresa. Go é apropriado para a contrução de servidores que atuam como infraestutura em rede \cite{donovan2016gopl}, portanto a escolha para a construção do \en{middleware}. 
+
+A linguagem coloca muita ênfase na eficiência, pegando boas ideias de outras linguagens, como: \en{garbage collection}, conceito de pacotes (Modula-2), a sintaxe de métodos (Oberon-2), dentre outras. As \en{goroutines} são outro aspecto da língua que demonstra a preocupação por eficiência, onde: criar uma \en{goroutine} é barato e criar milhões é prático; \en{goroutines} são \en{threads} leves \cite{donovan2016gopl}. 
+
+Alguns exemplos de produtos que usam Go são: \en{Traefik}, um \en{proxy} reverso e balanceador de carga, isso é, simplifica o roteamento entre vários serviços (microserviços e aplicações em \en{Docker}) \cite{traefik_docs}; \en{Caddy}, plataforma para servir \en{sites}, aplicações e serviços \cite{caddy_docs}; \en{KrakenD}, simpligica acesso à mutiplos serviços de \en{backend}, ele faz isso por centralizar, acelerar e proteger as conexões \cite{krakend_docs}.
+
+\subsubsection{AMBIENTE DE TESTES: Docker}
+
+\subsection{ESTRATÉGIAS DE SINCRONIZAÇÃO}
+
+\subsubsection{TIPOS DE SINCRONIZAÇÃO DE DADOS}
+
+\subsubsection{DESAFIOS NA IMPLEMENTAÇÃO DA SINCRONIZAÇÃO DE DADOS}
+
+\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: CRDT}
+
+\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: OT}
+
+\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: R-SYNC}
+
+\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO: ANTI-ENTROPY}
+
+\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO: \en{LOG} DE OPERAÇÃO}
+
+\subsubsection{ESTRATPEGIA DE SINCRONIZAÇÃO: LWW}
+
+\subsection{TRABALHOS RELACIONADOS}

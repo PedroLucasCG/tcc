@@ -19,6 +19,67 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{caddy_docs}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c2ae32d778f66f6697dc02169d48af3c}{%
+           family={{Caddy Server}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2ae32d778f66f6697dc02169d48af3c}
+      \strng{fullhash}{c2ae32d778f66f6697dc02169d48af3c}
+      \strng{bibnamehash}{c2ae32d778f66f6697dc02169d48af3c}
+      \strng{authorbibnamehash}{c2ae32d778f66f6697dc02169d48af3c}
+      \strng{authornamehash}{c2ae32d778f66f6697dc02169d48af3c}
+      \strng{authorfullhash}{c2ae32d778f66f6697dc02169d48af3c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://caddyserver.com/docs/}}
+      \field{note}{Acesso em: 09 dez. 2025}
+      \field{title}{Caddy Documentation}
+      \field{year}{2025}
+    \endentry
+    \entry{donovan2016gopl}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87a7b3a183bd76a052f571ec78de03ed}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Alan\bibnamedelimb A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cef3a18f3097ba31cc4cf18c95bfdfbc}{%
+           family={Kernighan},
+           familyi={K\bibinitperiod},
+           given={Brian\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{1abc4d6494e6783dc4988680f58adcc6}
+      \strng{fullhash}{1abc4d6494e6783dc4988680f58adcc6}
+      \strng{bibnamehash}{1abc4d6494e6783dc4988680f58adcc6}
+      \strng{authorbibnamehash}{1abc4d6494e6783dc4988680f58adcc6}
+      \strng{authornamehash}{1abc4d6494e6783dc4988680f58adcc6}
+      \strng{authorfullhash}{1abc4d6494e6783dc4988680f58adcc6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-13-419044-0}
+      \field{note}{First printing October 2015}
+      \field{title}{The Go Programming Language}
+      \field{year}{2016}
+    \endentry
     \entry{feyerke2021offlinefirst}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bb95f3a3999896e45da13be223145904}{%
@@ -55,6 +116,94 @@
       \verb{url}
       \verb https://www.youtube.com/watch?v=dPz_5-MEvcg
       \endverb
+    \endentry
+    \entry{gil2002como}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba72912539d99c3978f563bf5f56760e}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={Antonio\bibnamedelima Carlos},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Atlas}%
+      }
+      \strng{namehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{fullhash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{bibnamehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{authorbibnamehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{authornamehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{authorfullhash}{ba72912539d99c3978f563bf5f56760e}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{85-224-3169-8}
+      \field{title}{Como elaborar projetos de pesquisa}
+      \field{year}{2002}
+    \endentry
+    \entry{gil2008metodos}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba72912539d99c3978f563bf5f56760e}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={Antonio\bibnamedelima Carlos},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Atlas}%
+      }
+      \strng{namehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{fullhash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{bibnamehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{authorbibnamehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{authornamehash}{ba72912539d99c3978f563bf5f56760e}
+      \strng{authorfullhash}{ba72912539d99c3978f563bf5f56760e}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{Métodos e técnicas de pesquisa social}
+      \field{year}{2008}
+    \endentry
+    \entry{krakend_docs}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cfd64e3ef5620c1c3cd8e00565791c82}{%
+           family={{KrakenD}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfd64e3ef5620c1c3cd8e00565791c82}
+      \strng{fullhash}{cfd64e3ef5620c1c3cd8e00565791c82}
+      \strng{bibnamehash}{cfd64e3ef5620c1c3cd8e00565791c82}
+      \strng{authorbibnamehash}{cfd64e3ef5620c1c3cd8e00565791c82}
+      \strng{authornamehash}{cfd64e3ef5620c1c3cd8e00565791c82}
+      \strng{authorfullhash}{cfd64e3ef5620c1c3cd8e00565791c82}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.krakend.io/}}
+      \field{note}{Acesso em: 09 dez. 2025}
+      \field{title}{KrakenD API Gateway Documentation}
+      \field{year}{2025}
     \endentry
     \entry{tanenbaum2015mos}{book}{}
       \name{author}{2}{}{%
@@ -133,6 +282,29 @@
       \field{note}{Disponível em: https://csc-knu.github.io/sys-prog/books/Andrew\%20S.\%20Tanenbaum\%20-\%20Distributed\%20Systems.\%20Principles\%20and\%20Paradigms.pdf. Acesso em: 20 jul. 2025}
       \field{title}{Sistemas distribuídos: princípios e paradigmas}
       \field{year}{2007}
+    \endentry
+    \entry{traefik_docs}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f459ef7b581d2900c1c5da5a0cf1fbc1}{%
+           family={{Traefik Labs}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f459ef7b581d2900c1c5da5a0cf1fbc1}
+      \strng{fullhash}{f459ef7b581d2900c1c5da5a0cf1fbc1}
+      \strng{bibnamehash}{f459ef7b581d2900c1c5da5a0cf1fbc1}
+      \strng{authorbibnamehash}{f459ef7b581d2900c1c5da5a0cf1fbc1}
+      \strng{authornamehash}{f459ef7b581d2900c1c5da5a0cf1fbc1}
+      \strng{authorfullhash}{f459ef7b581d2900c1c5da5a0cf1fbc1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://traefik.io/}}
+      \field{note}{Acesso em: 09 dez. 2025}
+      \field{title}{Traefik Proxy Documentation}
+      \field{year}{2025}
     \endentry
   \enddatalist
 \endrefsection
