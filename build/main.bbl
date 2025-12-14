@@ -19,6 +19,67 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{BjornHansen2018PWAUnifiedMobile}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5c8e112d05da505cd7165215cfa04054}{%
+           family={Bi{ø}rn-Hansen},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3925028a8aaf685ded3c7145910ea018}{%
+           family={Majchrzak},
+           familyi={M\bibinitperiod},
+           given={Tim\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bdedc4a344574bd6e841adf103f322e}{%
+           family={Gr{ø}nli},
+           familyi={G\bibinitperiod},
+           given={Tor-Morten},
+           giveni={T\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \true{moreeditor}
+      \name{editor}{1}{}{%
+        {{hash=3925028a8aaf685ded3c7145910ea018}{%
+           family={Majchrzak},
+           familyi={M\bibinitperiod},
+           given={Tim\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{04a9591061bb49f70b1681792fdeb810}
+      \strng{fullhash}{04a9591061bb49f70b1681792fdeb810}
+      \strng{bibnamehash}{04a9591061bb49f70b1681792fdeb810}
+      \strng{authorbibnamehash}{04a9591061bb49f70b1681792fdeb810}
+      \strng{authornamehash}{04a9591061bb49f70b1681792fdeb810}
+      \strng{authorfullhash}{04a9591061bb49f70b1681792fdeb810}
+      \strng{editorbibnamehash}{251982081308c4e2d4fcbaca64ba7e4a}
+      \strng{editornamehash}{251982081308c4e2d4fcbaca64ba7e4a}
+      \strng{editorfullhash}{251982081308c4e2d4fcbaca64ba7e4a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Web Information Systems and Technologies (WEBIST 2017)}
+      \field{series}{Lecture Notes in Business Information Processing}
+      \field{title}{Progressive Web Apps for the Unified Development of Mobile Applications}
+      \field{volume}{322}
+      \field{year}{2018}
+      \field{pages}{64\bibrangedash 86}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-319-93527-0_4
+      \endverb
+    \endentry
     \entry{caddy_docs}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c2ae32d778f66f6697dc02169d48af3c}{%
@@ -182,6 +243,40 @@
       \field{title}{Métodos e técnicas de pesquisa social}
       \field{year}{2008}
     \endentry
+    \entry{Guda2025OfflineFirstAndroidChat}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6df19a717a9856cbce90632924b10b51}{%
+           family={Guda},
+           familyi={G\bibinitperiod},
+           given={Varun\bibnamedelima Reddy},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6df19a717a9856cbce90632924b10b51}
+      \strng{fullhash}{6df19a717a9856cbce90632924b10b51}
+      \strng{bibnamehash}{6df19a717a9856cbce90632924b10b51}
+      \strng{authorbibnamehash}{6df19a717a9856cbce90632924b10b51}
+      \strng{authornamehash}{6df19a717a9856cbce90632924b10b51}
+      \strng{authorfullhash}{6df19a717a9856cbce90632924b10b51}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2582-7138}
+      \field{journaltitle}{International Journal of Multidisciplinary Research and Growth Evaluation}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Implementation of Offline-First Architectures for Android Internet-Based Chat Systems}
+      \field{volume}{6}
+      \field{year}{2025}
+      \field{pages}{1200\bibrangedash 1203}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.54660/IJMRGE.2025.6.3.1200-1203
+      \endverb
+    \endentry
     \entry{krakend_docs}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cfd64e3ef5620c1c3cd8e00565791c82}{%
@@ -204,6 +299,99 @@
       \field{note}{Acesso em: 09 dez. 2025}
       \field{title}{KrakenD API Gateway Documentation}
       \field{year}{2025}
+    \endentry
+    \entry{Nasrallah2018ULL}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=9d9073d789605e510d4e620aecb73f82}{%
+           family={Nasrallah},
+           familyi={N\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e00ce34def0a5c84e82c17b843995995}{%
+           family={Thyagaturu},
+           familyi={T\bibinitperiod},
+           given={Akhilesh\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6728b1f24285414e1015e591d531ec44}{%
+           family={Alharbi},
+           familyi={A\bibinitperiod},
+           given={Ziyad},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a6fab7c8292a6fb78f28db4fd86b22d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Cuixiang},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccbe637ec0ff132c0ca71124eedef9ad}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Xing},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5883236e64d11b6c74c9bddea54c831}{%
+           family={Reisslein},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a7f991e31305ef7843a716ddcd629fd}{%
+           family={ElBakoury},
+           familyi={E\bibinitperiod},
+           given={Hesham},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b98e9e47ebd368719ada18f0fe0d6fd8}
+      \strng{fullhash}{dcef1399e45feed5f53e0dc6fcf2a834}
+      \strng{bibnamehash}{b98e9e47ebd368719ada18f0fe0d6fd8}
+      \strng{authorbibnamehash}{b98e9e47ebd368719ada18f0fe0d6fd8}
+      \strng{authornamehash}{b98e9e47ebd368719ada18f0fe0d6fd8}
+      \strng{authorfullhash}{dcef1399e45feed5f53e0dc6fcf2a834}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1803.07673}
+      \field{note}{Survey comprehensively covers link and network layer latency reduction standards and studies up to July 2018}
+      \field{title}{Ultra-Low Latency (ULL) Networks: The IEEE TSN and IETF DetNet Standards and Related 5G ULL Research}
+      \field{year}{2018}
+    \endentry
+    \entry{OfflineFirst}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=403804d2d6dc9e48e75e3869db051b70}{%
+           family={{Offline First Community}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{403804d2d6dc9e48e75e3869db051b70}
+      \strng{fullhash}{403804d2d6dc9e48e75e3869db051b70}
+      \strng{bibnamehash}{403804d2d6dc9e48e75e3869db051b70}
+      \strng{authorbibnamehash}{403804d2d6dc9e48e75e3869db051b70}
+      \strng{authornamehash}{403804d2d6dc9e48e75e3869db051b70}
+      \strng{authorfullhash}{403804d2d6dc9e48e75e3869db051b70}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Offline First}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{n.d.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://offlinefirst.org/
+      \endverb
+      \verb{url}
+      \verb https://offlinefirst.org/
+      \endverb
     \endentry
     \entry{tanenbaum2015mos}{book}{}
       \name{author}{2}{}{%
