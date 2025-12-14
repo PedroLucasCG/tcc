@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  14 DEC 2025 13:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  14 DEC 2025 14:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -617,26 +617,26 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 26.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [2]) (./chapters/metodologia.tex [3] [4]) (./chapters/teorica.tex [5] [6] [7]) [8] [9
+) [2]) (./chapters/metodologia.tex [3] [4]) (./chapters/teorica.tex [5] [6] [7]) [8] [9] [10
 
-] [10] (build/main.aux)
+] [11] (build/main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12895 strings out of 476091
- 246700 string characters out of 5794081
+ 12905 strings out of 476091
+ 247133 string characters out of 5794081
  1865330 words of memory out of 5000000
- 33066 multiletter control sequences out of 15000+600000
+ 33076 multiletter control sequences out of 15000+600000
  534683 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,6n,86p,1937b,4291s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/main.pdf (21 pages, 302871 bytes).
+Output written on build/main.pdf (22 pages, 305236 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 104 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

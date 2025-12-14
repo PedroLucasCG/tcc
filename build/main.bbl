@@ -68,6 +68,34 @@
       \field{year}{2001}
       \keyw{computação móvel,arquitetura de software móvel,aplicações móveis distribuídas,sistemas móveis adaptativos,estratégias de adaptação,Software Architectures,Concurrent Programming}
     \endentry
+    \entry{Bailey2005IntroductionC}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a37c63e1fc8eaedec4ea9e27569c27d3}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{a37c63e1fc8eaedec4ea9e27569c27d3}
+      \strng{fullhash}{a37c63e1fc8eaedec4ea9e27569c27d3}
+      \strng{bibnamehash}{a37c63e1fc8eaedec4ea9e27569c27d3}
+      \strng{authorbibnamehash}{a37c63e1fc8eaedec4ea9e27569c27d3}
+      \strng{authornamehash}{a37c63e1fc8eaedec4ea9e27569c27d3}
+      \strng{authorfullhash}{a37c63e1fc8eaedec4ea9e27569c27d3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Draft 0.6, July 12, 2005. Material didático utilizado em curso de Engenharia de Software}
+      \field{title}{An Introduction to the C Programming Language and Software Design}
+      \field{year}{2005}
+    \endentry
     \entry{BjornHansen2018PWAUnifiedMobile}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5c8e112d05da505cd7165215cfa04054}{%
@@ -291,6 +319,53 @@
       \field{edition}{6}
       \field{title}{Métodos e técnicas de pesquisa social}
       \field{year}{2008}
+    \endentry
+    \entry{GoodrichTamassiaMount2011DataStructuresCpp}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23dc8c63965c7c18e5e1ec4d33197e0d}{%
+           family={Goodrich},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73002fbcaa8fe0ee76011401f23f2ab3}{%
+           family={Tamassia},
+           familyi={T\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=827b83f56eb6ef772078b4c0c8d497aa}{%
+           family={Mount},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Inc.}%
+      }
+      \strng{namehash}{945e96be705d945fd5cfbfd0956e3396}
+      \strng{fullhash}{945e96be705d945fd5cfbfd0956e3396}
+      \strng{bibnamehash}{945e96be705d945fd5cfbfd0956e3396}
+      \strng{authorbibnamehash}{945e96be705d945fd5cfbfd0956e3396}
+      \strng{authornamehash}{945e96be705d945fd5cfbfd0956e3396}
+      \strng{authorfullhash}{945e96be705d945fd5cfbfd0956e3396}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{isbn}{978-0-470-38327-8}
+      \field{title}{Data Structures and Algorithms in C++}
+      \field{year}{2011}
     \endentry
     \entry{Guda2025OfflineFirstAndroidChat}{article}{}
       \name{author}{1}{}{%

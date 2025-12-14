@@ -2441,16 +2441,18 @@
     <bcf:citekey order="8" intorder="1">gil2008metodos</bcf:citekey>
     <bcf:citekey order="9" intorder="1">gil2008metodos</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Nasrallah2018ULL</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">OfflineFirst</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">BjornHansen2018PWAUnifiedMobile</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">Guda2025OfflineFirstAndroidChat</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Bailey2005IntroductionC</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">GoodrichTamassiaMount2011DataStructuresCpp</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">OfflineFirst</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">BjornHansen2018PWAUnifiedMobile</bcf:citekey>
     <bcf:citekey order="15" intorder="1">Guda2025OfflineFirstAndroidChat</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">donovan2016gopl</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">donovan2016gopl</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">traefik_docs</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">caddy_docs</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">krakend_docs</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Guda2025OfflineFirstAndroidChat</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">donovan2016gopl</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">donovan2016gopl</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">traefik_docs</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">caddy_docs</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">krakend_docs</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
