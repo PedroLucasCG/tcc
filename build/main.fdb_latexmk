@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1765675245 "build/main.bcf" "build/main.bbl" "build/main" 1765675404 0
-  "./bibtex/refs.bib" 1765674848 7259 22e1d786407ab4ada2e2e22ddb66ed91 ""
-  "build/main.bcf" 1765675403 113445 ad40aaa439f7fd32b0e10b1e1192530c "pdflatex"
+["biber build/main"] 1765729522 "build/main.bcf" "build/main.bbl" "build/main" 1765729978 0
+  "./bibtex/refs.bib" 1765728693 8121 20e62a6fe23b74eeac3650aa95d341e4 ""
+  "build/main.bcf" 1765729978 113655 0466605746cffefb6c94797f97bb0c23 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1765675402 "main.tex" "build/main.pdf" "main" 1765675404 0
+["pdflatex"] 1765729977 "main.tex" "build/main.pdf" "main" 1765729978 0
   "/etc/texmf/web2c/texmf.cnf" 1764768553 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -99,15 +99,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1764768571 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764768614 7880939 1da3996b291f4e64c55a6c83b1f007a5 ""
-  "build/main.aux" 1765675403 7861 77ccf3114e526574fc70e53137f4ae64 "pdflatex"
-  "build/main.bbl" 1765675245 19886 87e29621d8d069b7af3dad4781956b96 "biber build/main"
-  "build/main.lof" 1765675403 1827 ea717e843983c62896b101202d32a312 "pdflatex"
-  "build/main.lot" 1765675403 1827 ea717e843983c62896b101202d32a312 "pdflatex"
-  "build/main.run.xml" 1765675403 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
-  "build/main.toc" 1765675403 4117 2956c8584d097dd66e3f2684af06d80b "pdflatex"
+  "build/main.aux" 1765729978 8691 8d267e68c5cefa22ef87500f74698eeb "pdflatex"
+  "build/main.bbl" 1765729523 22362 daf98eb25467e3278c11d21c83e0369d "biber build/main"
+  "build/main.lof" 1765729978 2001 786feecb617cabc6d140c31393dc0aae "pdflatex"
+  "build/main.lot" 1765729978 2001 786feecb617cabc6d140c31393dc0aae "pdflatex"
+  "build/main.run.xml" 1765729978 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
+  "build/main.toc" 1765729978 4445 34fef59a5123e6d1c31fef49c4e99544 "pdflatex"
   "chapters/introducao.tex" 1765130671 6368 ca191edeeff1d4f9b26e187e32497b08 ""
   "chapters/metodologia.tex" 1765675243 4703 97e41fb9ebb21ed8da00a71f833b915c ""
-  "chapters/teorica.tex" 1765675402 4213 c2482e51060ba3b756b870a5fb92395b ""
+  "chapters/teorica.tex" 1765729973 5471 6826e027ac20fac90c27f1dabecd5b68 ""
   "images/coat_of_armas.png" 1764848118 277609 d0dfd5b3b1f679dbcf6e5afad1d0372a ""
   "main.tex" 1765286233 2104 f68c6a6d29a7ae52ff4c1f03ae770032 ""
   "secondtitle.tex" 1764981534 885 d14d2ced62abe22c5081096b2f3d49b6 ""

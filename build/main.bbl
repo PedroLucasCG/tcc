@@ -19,6 +19,55 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5f8afda755b3c3317aa63d3cb57ab17f}{%
+           family={Augustin},
+           familyi={A\bibinitperiod},
+           given={Iara},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ab287ccb81b7831810a9b5a4e6b72c4}{%
+           family={Yamin},
+           familyi={Y\bibinitperiod},
+           given={Adenauer},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e5c33936b2d315a3c5f6a2651f86558}{%
+           family={Geyer},
+           familyi={G\bibinitperiod},
+           given={Cláudio\bibnamedelimb Fernando\bibnamedelima Resin},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbf574b8ea45bf9d7b4868050901e1f}{%
+           family={Barbosa},
+           familyi={B\bibinitperiod},
+           given={Jorge\bibnamedelimb L.\bibnamedelimi V.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {portuguese}%
+      }
+      \strng{namehash}{a5c1c727e29afa40f98d37aeb4cae98b}
+      \strng{fullhash}{5c56cd596c585fb23bf73fd06755e9a3}
+      \strng{bibnamehash}{a5c1c727e29afa40f98d37aeb4cae98b}
+      \strng{authorbibnamehash}{a5c1c727e29afa40f98d37aeb4cae98b}
+      \strng{authornamehash}{a5c1c727e29afa40f98d37aeb4cae98b}
+      \strng{authorfullhash}{5c56cd596c585fb23bf73fd06755e9a3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anais do VII Congreso Argentino de Ciencias de la Computación (CACIC)}
+      \field{month}{10}
+      \field{note}{Origem: Red de Universidades con Carreras en Informática (RedUNCI). Data de exposição/publicação: outubro 2001.}
+      \field{title}{Requisitos para o projeto de aplicações móveis distribuídas}
+      \field{year}{2001}
+      \keyw{computação móvel,arquitetura de software móvel,aplicações móveis distribuídas,sistemas móveis adaptativos,estratégias de adaptação,Software Architectures,Concurrent Programming}
+    \endentry
     \entry{BjornHansen2018PWAUnifiedMobile}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5c8e112d05da505cd7165215cfa04054}{%

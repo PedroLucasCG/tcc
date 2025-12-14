@@ -27,19 +27,10 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{6}{}%
-\contentsline {subsection}{\numberline {3.1}CONCEITOS ESSENCIAIS PARA A CONSTRUÇÃO DA APLICAÇÃO MÓVEL}{6}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}SISTEMAS \textit {OFFLINE-FIRST}}{6}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{7}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}BANCO DE DADOS: SQLite}{7}{}%
-\contentsline {subsection}{\numberline {3.2}CONCEITOS ESSENCIAIS DO \textit {MIDDLEWARE} DE \\ SINCRONIZAÇÃO}{7}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}REDES \textit {PEER-TO-PEER}}{7}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}LINGUAGEM DE PROGRAMAÇÃO: Go}{7}{}%
+\contentsline {subsection}{\numberline {3.1}LINGUAGENS DE PROGRAMAÇÃO}{6}{}%
+\contentsline {subsection}{\numberline {3.2}MODELO CLIENTE-SERVIDOR}{6}{}%
+\contentsline {subsection}{\numberline {3.3}CONCEITOS ESSENCIAIS PARA A CONSTRUÇÃO DA APLICAÇÃO MÓVEL}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}SISTEMAS \textit {OFFLINE-FIRST}}{6}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -50,17 +41,34 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}AMBIENTE DE TESTES: Docker}{8}{}%
-\contentsline {subsection}{\numberline {3.3}ESTRATÉGIAS DE SINCRONIZAÇÃO}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}TIPOS DE SINCRONIZAÇÃO DE DADOS}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}DESAFIOS NA IMPLEMENTAÇÃO DA SINCRONIZAÇÃO DE DADOS}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: CRDT}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.4}ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: OT}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.5}ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: R-SYNC}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.6}ESTRATÉGIA DE SINCRONIZAÇÃO: ANTI-ENTROPY}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.7}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {LOG} DE OPERAÇÃO}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.8}ESTRATPEGIA DE SINCRONIZAÇÃO: LWW}{8}{}%
-\contentsline {subsection}{\numberline {3.4}TRABALHOS RELACIONADOS}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}BANCO DE DADOS: SQLite}{7}{}%
+\contentsline {subsection}{\numberline {3.4}CONCEITOS ESSENCIAIS DO \textit {MIDDLEWARE} DE \\ SINCRONIZAÇÃO}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}REDES \textit {PEER-TO-PEER}}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}LINGUAGEM DE PROGRAMAÇÃO: Go}{7}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.4.3}AMBIENTE DE TESTES: Docker}{8}{}%
+\contentsline {subsection}{\numberline {3.5}ESTRATÉGIAS DE SINCRONIZAÇÃO}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}TIPOS DE SINCRONIZAÇÃO DE DADOS}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}DESAFIOS NA IMPLEMENTAÇÃO DA SINCRONIZAÇÃO DE DADOS}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: CRDT}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.4}ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: OT}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.5}ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: R-SYNC}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.6}ESTRATÉGIA DE SINCRONIZAÇÃO: ANTI-ENTROPY}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.7}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {LOG} DE OPERAÇÃO}{8}{}%
+\contentsline {subsubsection}{\numberline {3.5.8}ESTRATPEGIA DE SINCRONIZAÇÃO: LWW}{8}{}%
+\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{8}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
