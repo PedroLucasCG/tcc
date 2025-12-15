@@ -6,13 +6,17 @@ Esta seção apresenta conceitos necessários para o desenvolvimento do trabalho
 
 A linguagem nativa de computadores é a binária (uns e zeros), todas as instruções e dados devem ser providas nesse formato para serem processados. Código binário nativo é chamado de linguagem de máquina. Com o passar do tempo foram aparecendo novas formas de construir programas; sucedendo o código de máquina os programas começaram a serem escritos em sequências de números hexadecimais. Em seguida o surgimento linguagens \en{assembly}, os códigos então começaram a ser escritos usando uma série de comandos mnemônicos que represetam uma conjunto de instruções em código de máquina. Essas linguagens de programação não são apropriadas para o desenvolvimento de aplicação em larga escala, portanto, o surgimento das linguagens de alto nível como C. Estas definem um conjunto de mecanismos que servem como abstrações das instruções de máquina (\en{loops}, condicionais, funções, etc) \cite{Bailey2005IntroductionC}.
 
-Construir estruturas de dados e algoritimos requer uma linguagem de programação de alto nível \cite{GoodrichTamassiaMount2011DataStructuresCpp}. Logo, para o desenvolvimento da aplicação móvel e dos \en{middlewares} de sincronização foram, portanto, escolhidas as linguagens de programação \en{Kotlin} e \en{Golang}, respectivamente.  
+  Construir estruturas de dados e algoritimos requer uma linguagem de programação de alto nível \cite{GoodrichTamassiaMount2011DataStructuresCpp}. Logo, para o desenvolvimento da aplicação móvel e dos \en{middlewares} de sincronização foram, portanto, escolhidas as linguagens de programação \en{Kotlin} e \en{Golang}, respectivamente.  
 
 \subsection{MODELO CLIENTE-SERVIDOR}
 
+A escolha dos componentes de um \en{software}, as interações entre eles e onde atuam, constitui a arquitetura de sistema. Na arquitetura de sistemas categoriza-se, basicamente, os sistemas em centralizados e descentralizados, essas categorizações se baseiam na natureza da relação cliente-servidor; Quando discutindo arquitetura de sistemas o modelo cliente-servidor é essencial. Desse modo, esse modelo define clientes que requisitam serviços de servidores, onde em sistemas centralizados é definido por: uma máquina cliente que implementa a parte do sistema voltada para o usuário; servidores contém o resto da aplicação (processamento e a camada de dados) \cite{tanenbaum2007dist}.
+
+Sistemas descentralizados essa organização difere, onde em sistemas centralizados a distribuição é alcançada, principalmente, por separar componentes logicamente em diferentes máquinas (distribuição vertical), nos descentralizados a distribuição é alcançada horizontalmente, isso é, clientes ou servidores podem ser divididos em partes equivalentes, cada uma responsável por processar sua parte do trabalho. Uma classe de arquitetura de sistema que implementa distribuição horizontal é \en{peer-to-peer} \cite{tanenbaum2007dist}.
+
 \subsection{CONCEITOS ESSENCIAIS PARA A CONSTRUÇÃO DA APLICAÇÃO MÓVEL}
 
-A aplicação consiste em um leitor de \en{ePub} com a possibilidade de fazer anotações, a sincronização será feita a partir dos compartilhamento dessas anotações na rede, todos os pares deveram ter as anotações dos demais. Desse modo, as tecnologias relevantes são: \en{Go} e \en{Kotlin} para linguagens de programação e \en{SQLite} para banco de dados local, onde os dados serão armazenados quando no dispositivo celular do usuário.
+A aplicação consiste em um leitor de \en{ePub} com a possibilidade de fazer anotações, a sincronização será feita a partir dos compartilhamento dessas anotações na rede, todos os pares deveram ter as anotações dos demais. Desse modo, as tecnologias relevantes são: \en{Golang} e \en{Kotlin} para linguagens de programação e \en{Room} para banco de dados local, onde os dados serão armazenados quando no dispositivo celular do usuário.
 
 \subsubsection{SISTEMAS \en{OFFLINE-FIRST}}
 
@@ -22,37 +26,44 @@ A oferta variável de recursos da computação móvel sugere que aplicações pa
 
 \subsubsection{LINGUAGEM DE PROGRAMAÇÃO: \en{KOTLIN}}
 
-\subsubsection{BANCO DE DADOS: SQLite}
+Para o desenvolvimento da aplicação móvel, sua construção foi realizada com o \en{software} \en{Android Studio} usando a linguagem de programação \en{Kotlin}. No desenvolvimento de uma aplicação é importante a escolha de uma plataforma, a plataforma escolhida para a aplicação foi o \en{Android}. Este é um sistema operacional para dispositivos móveis, sendo usado em \en{tablets}, celulares, dentre outros. \en{Android Studio} é o ambiente de desenvolvimento oficial de aplicações para a \en{Android}, pode ser usado com  \en{Java} e \en{Kotlin}. \en{Kotlin} é uma linguagem de programação pragmática que combina os paradigmas de Orientação a Objetos e Programação Funcional com foco em interoperabilidade; a interoperabilidade se dá pela qualidade da linguagem de usar códigos que foram escritos em \en{Java} em códigos escritos em \en{Kotlin} \cite{Resende2020KotlinAndroid}. 
+
+Orientação a Objetos é uma paradigma de programação que determina a organização do código em objetos. Um objeto é gerado de uma classe, essa é a especificação de atributos e métodos que o objeto contém em sua definição; cada classe apresenta uma interface consistente para o restante do código sem entregar detalhes inapropriados \cite{GoodrichTamassiaMount2011DataStructuresCpp}. \en{Kotlin} como uma linguagem orientada a objetos adere a esse paradigma.
+
+\subsubsection{BANCO DE DADOS: \en{ROOM}}
+
+Banco de dados são usados em diversos contextos (comercial, científico, pessoal) devido a necessidade do armazenamento persistente de dados; banco de dados são poderosos devido aos seus SGBDs (sistemas de genrenciamento de banco de dados) que provê as funcionalidades de persistência de dados, interface de modificação com uma liguagem de \en{query} (SQL, por exemplo), estas são linguagens de modificação de dados e da estrutura do banco de dados; e, genrenciamento de transação \cite{GarciaMolinaUllmanWidom2002DatabaseSystems}.
+
+\en{Room} é uma biblioteca de persistência que funciona sobre \en{SQLite}, fornecendo abstrações para permitir um acesso mais robusto ao banco de dados local \cite{AndroidJetpackRoom}. \en{SQLite} é um dos maiores sistemas de genrenciamento de banco de dados, estando presente em celulares, computadores, navegadores, televisores, etc; o motivo de seu sucesso pode ser creditado a: sua portabilidade para multiplas plataformas, ele é compacto e auto-contido, sua confiabilidade e velocidade \cite{GaffneyPrammerBrasfieldHippKennedyPatel2022}. 
 
 \subsection{CONCEITOS ESSENCIAIS DO \en{MIDDLEWARE} DE \\ SINCRONIZAÇÃO}
 
+\en{Middleware} forma uma camada entre aplicações e plataformas distribuídas para prover transparência de distribuição, isso é, esconder uma porção dos dados, processamento e controle das aplicações \cite{tanenbaum2007dist}. Desse modo, será apresentada nesta seção os conceitos necessários para montar essa camada intermediária tão como componentes dos testes.
+
 \subsubsection{REDES \en{PEER-TO-PEER}}
 
-\subsubsection{LINGUAGEM DE PROGRAMAÇÃO: Go}
+Redes \en{peer-to-peer} são redes onde cada \en{node} atua como cliente e servidor. Essas redes podem ser de arquitetura estruturada e não estruturada. Nas estruturadas a rede é construída usando um procedimento determinista; um exemplo seria manter uma tabela com identificadores para todos os \en{nodes}, este mesmo identificador atua para categorizar os dados, assim quando um item é acessado na rede, é retornado o identificador do \en{node} responsável para ele. Em uma rede não estruturada os \en{nodes} conhecem uns aos outros de maneira quase aleatória, isso é, cada um mantém uma lista de vizinhos construída de maneira não determinista; a transmissão de dados ocorre da mesma forma \cite{tanenbaum2007dist}.
+
+\subsubsection{LINGUAGEM DE PROGRAMAÇÃO: \en{GOLANG}}
 \en{Go} é uma linguagem de programação simimilar a linguagem C, dela herdou a sintáse de expressões, tipos de dados básicos e a ênfase em programas que compilam para código de máquina eficiente. Criada por Robert Griesemer, Rob Pike, e Ken Thompson, todos da \en{Google}, em 2007 para resolver o problema crescente da complexidade dos sistema da empresa. \en{Go} é apropriado para a contrução de servidores que atuam como infraestutura em rede \cite{donovan2016gopl}, portanto a escolha para a construção do \en{middleware}. 
 
 A linguagem coloca muita ênfase na eficiência, \en{Go} possui funcionalidades inspiradas em outras linguagens, como: \en{garbage collection} de linguagens como \en{Java}, o conceito de pacotes de \en{Modula-2}, a sintaxe de métodos de \en{Oberon-2}, dentre outras funcionalidades. As \en{goroutines}, fluxos leves de execução, são outro aspecto da língua que demonstra a preocupação por eficiência, onde: criar uma \en{goroutine} é barato e criar milhões é prático \cite{donovan2016gopl}. 
 
-Alguns exemplos de produtos que usam \en{Go} são: \en{Traefik}, um \en{proxy} reverso e balanceador de carga, isso é, simplifica o roteamento entre vários serviços (microserviços e aplicações em \en{Docker}) \cite{traefik_docs}; \en{Caddy}, plataforma para servir \en{sites}, aplicações e serviços \cite{caddy_docs}; \en{KrakenD}, simpligica acesso à mutiplos serviços de \en{backend}, ele faz isso por centralizar, acelerar e proteger as conexões \cite{krakend_docs}.
+Alguns exemplos de produtos que usam \en{Go} são: \en{Traefik}, um \en{proxy} reverso e balanceador de carga, isso é, simplifica o roteamento entre vários serviços (microserviços e aplicações em \en{Docker}) \cite{traefik_docs}; \en{Caddy}, plataforma para servir \en{sites}, aplicações e serviços \cite{caddy_docs}; \en{KrakenD}, simplifica acesso à mutiplos serviços de \en{backend}, ele faz isso por centralizar, acelerar e proteger as conexões \cite{krakend_docs}.
 
-\subsubsection{AMBIENTE DE TESTES: Docker}
+\subsubsection{AMBIENTE DE TESTES: \en{DOCKER}}
+
+\en{Docker} é uma plataforma aberta para desenvolvimento, publicação e execução de aplicações. Ele oferta recursos para empacotar e executar uma aplicação em ambiente com isolamento fraco, isso é, um contêiner. \en{Docker} também oferece ferramentas para orquestração de contêineres, onde é possível manipular a criação, destruição desses; também é possível isolar ambientes, simulando redes distintas. \en{Docker} é usado a partir da manipulação de seus objetos: contêineres, \en{networks}, volumes, imagens, etc. Cada objeto atua sobre um sistema operacional definido no contêiner, por exemplo, \en{Debian}, \en{Ubuntu}, \en{Fedora}, dentre outros \cite{DockerOverviewDocs}.
 
 \subsection{ESTRATÉGIAS DE SINCRONIZAÇÃO}
 
-\subsubsection{TIPOS DE SINCRONIZAÇÃO DE DADOS}
+As formas de classificar as estratégias de sincronização podem ser de acordo com a necessidade da aplicação em relação a consistência entre as réplicas \cite{tanenbaum2007dist}. Assim, será destacado nessa seção os desafios e soluções para sincronizar dados.  
 
-\subsubsection{DESAFIOS NA IMPLEMENTAÇÃO DA SINCRONIZAÇÃO DE DADOS}
+Inicialmente, os CRDTs são algoritmos distribuídos que computa o estado de uma aplicação colaborativa do seu histórico de operações. Esse estado deve ser o mesmo para todos os usuários e ser computável sem a necessidade de ter um componente que centraliza as informações; um servidor central, por exemplo. Possui dois tipos distintos dependendo no que se baseiam: operações ou estados. Verifique a Tabela 1 abaixo para as diferenças entre os dois tipos de CRDTs \cite{weidner2023crdtsurvey}.
 
-\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: CRDT}
-
-\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: OT}
-
-\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO DE DADOS: R-SYNC}
-
-\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO: ANTI-ENTROPY}
-
-\subsubsection{ESTRATÉGIA DE SINCRONIZAÇÃO: \en{LOG} DE OPERAÇÃO}
-
-\subsubsection{ESTRATPEGIA DE SINCRONIZAÇÃO: LWW}
+Sincronização de dados em sistemas é uma tarefa essencial no estabelecimento de uma equivalência entre duas ou mais coleções de dados BADRINATH e PHATAK (2001). Do mesmo modo, Tanenbaum  em “Sistemas Distribuídos: Princípios e Paradigmas” \cite{tanenbaum2007dist} afirma que o principal desafio na replicação de dados (isso é, manter diferentes cópias de dados em servidores ou localidades diferentes) é assegurar a consistência das réplicas. 
 
 \subsection{TRABALHOS RELACIONADOS}
+
+Este trabalho lida com os mecânimos de sincronização de dados, assim trabalhos relacionados a este estão nesse mesmo contexto. Um desses trabalhos é Requisitos para o Projeto de
+Aplicações Móveis Distribuídas \cite{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas} que apresenta o modeo ISAM para construir um sistema de produção de aplicativos para o contexto móvel; publicado em 2001 permanece relevante até os dias atuais devido o seu trabalho na categorização de conxtexto. Outro trabalho é \en{Implementation of Offline-First Architectures for Android Internet-Based Chat Systems} \cite{Guda2025OfflineFirstAndroidChat} publicado em 2025 segue a mesma linha, propõe uma estrutura para a criação um \en{chat} para redes locais, não lida com redes descentralizadas mas oferece comentários úteis na sincronização de mensagens. 

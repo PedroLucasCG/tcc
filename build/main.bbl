@@ -19,6 +19,39 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{AndroidJetpackRoom}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ace771b22ac28958ff5694e260839cc}{%
+           family={{Android Developers}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{fullhash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{bibnamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorbibnamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authornamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorfullhash}{7ace771b22ac28958ff5694e260839cc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://developer.android.com/jetpack/androidx/releases/room}}
+      \field{note}{Última versão estável 2.8.4 em 19 de novembro de 2025}
+      \field{title}{Room | Android Jetpack Releases}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://developer.android.com/jetpack/androidx/releases/room
+      \endverb
+      \verb{url}
+      \verb https://developer.android.com/jetpack/androidx/releases/room
+      \endverb
+    \endentry
     \entry{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas}{inproceedings}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=5f8afda755b3c3317aa63d3cb57ab17f}{%
@@ -180,6 +213,39 @@
       \field{title}{Caddy Documentation}
       \field{year}{2025}
     \endentry
+    \entry{DockerOverviewDocs}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e6f3d214228cc5933c1a82019f7dc0e0}{%
+           family={{Docker, Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{fullhash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{bibnamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authorbibnamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authornamehash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \strng{authorfullhash}{e6f3d214228cc5933c1a82019f7dc0e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://docs.docker.com/get-started/docker-overview/}}
+      \field{note}{Documentação oficial — acessado em 2025-12-15}
+      \field{title}{Docker Overview}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.docker.com/get-started/docker-overview/
+      \endverb
+      \verb{url}
+      \verb https://docs.docker.com/get-started/docker-overview/
+      \endverb
+    \endentry
     \entry{donovan2016gopl}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=87a7b3a183bd76a052f571ec78de03ed}{%
@@ -254,6 +320,113 @@
       \verb{url}
       \verb https://www.youtube.com/watch?v=dPz_5-MEvcg
       \endverb
+    \endentry
+    \entry{GaffneyPrammerBrasfieldHippKennedyPatel2022}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dcab37e9e6ffd2798d3108367bc186d7}{%
+           family={Gaffney},
+           familyi={G\bibinitperiod},
+           given={Kevin\bibnamedelima P.},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9241403ae2bfd6706226ff5d25fc863}{%
+           family={Prammer},
+           familyi={P\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b4ada6f4778185fb46bbdb02c7d336d}{%
+           family={Brasfield},
+           familyi={B\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abc88efd85f1d8482dc06c18d13a5d7e}{%
+           family={Hipp},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi Richard},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d56d5adcf55881a827107d6c1d5007b}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4a263d489a8641204e9ca0b1b45e428}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Jignesh\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d78bc0e323fec2c1fe62832bab2618c}
+      \strng{fullhash}{adcbcd0f5554dbf081db4ea427549b5a}
+      \strng{bibnamehash}{1d78bc0e323fec2c1fe62832bab2618c}
+      \strng{authorbibnamehash}{1d78bc0e323fec2c1fe62832bab2618c}
+      \strng{authornamehash}{1d78bc0e323fec2c1fe62832bab2618c}
+      \strng{authorfullhash}{adcbcd0f5554dbf081db4ea427549b5a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2150-8097}
+      \field{journaltitle}{Proceedings of the VLDB Endowment}
+      \field{month}{8}
+      \field{note}{Award ID: 1835446; PAR ID: 10390276. Sponsored by the National Science Foundation}
+      \field{number}{12}
+      \field{title}{SQLite: Past, Present, and Future}
+      \field{volume}{15}
+      \field{year}{2022}
+      \field{pages}{3535\bibrangedash 3547}
+      \range{pages}{13}
+    \endentry
+    \entry{GarciaMolinaUllmanWidom2002DatabaseSystems}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7b6f78bee4d74fb4edb7a42ad7e3c2ad}{%
+           family={Garcia-Molina},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cafe1d770c56825ebccdb81e9f7c9b3b}{%
+           family={Ullman},
+           familyi={U\bibinitperiod},
+           given={Jeffrey\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5c9bf7d1fe609c7c5aa35cdee017284}{%
+           family={Widom},
+           familyi={W\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River, New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{8a1f188b3e552426bdcfd1f584d7a66b}
+      \strng{fullhash}{8a1f188b3e552426bdcfd1f584d7a66b}
+      \strng{bibnamehash}{8a1f188b3e552426bdcfd1f584d7a66b}
+      \strng{authorbibnamehash}{8a1f188b3e552426bdcfd1f584d7a66b}
+      \strng{authornamehash}{8a1f188b3e552426bdcfd1f584d7a66b}
+      \strng{authorfullhash}{8a1f188b3e552426bdcfd1f584d7a66b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database Systems: The Complete Book}
+      \field{year}{2002}
     \endentry
     \entry{gil2002como}{book}{}
       \name{author}{1}{}{%
@@ -517,6 +690,39 @@
       \verb https://offlinefirst.org/
       \endverb
     \endentry
+    \entry{Resende2020KotlinAndroid}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c054535d4e8abd0c19391c6450cab55}{%
+           family={Resende},
+           familyi={R\bibinitperiod},
+           given={Kassiano},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {portuguese}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP, Brasil}%
+      }
+      \list{publisher}{1}{%
+        {Casa do Código}%
+      }
+      \strng{namehash}{9c054535d4e8abd0c19391c6450cab55}
+      \strng{fullhash}{9c054535d4e8abd0c19391c6450cab55}
+      \strng{bibnamehash}{9c054535d4e8abd0c19391c6450cab55}
+      \strng{authorbibnamehash}{9c054535d4e8abd0c19391c6450cab55}
+      \strng{authornamehash}{9c054535d4e8abd0c19391c6450cab55}
+      \strng{authorfullhash}{9c054535d4e8abd0c19391c6450cab55}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kotlin com Android: Crie aplicativos de maneira fácil e divertida}
+      \field{year}{2020}
+    \endentry
     \entry{tanenbaum2015mos}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=2414455c999bc471f803cd14fdea939d}{%
@@ -617,6 +823,32 @@
       \field{note}{Acesso em: 09 dez. 2025}
       \field{title}{Traefik Proxy Documentation}
       \field{year}{2025}
+    \endentry
+    \entry{weidner2023crdtsurvey}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=429ed5b3307ce5054040af5163904ea1}{%
+           family={Weidner},
+           familyi={W\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{429ed5b3307ce5054040af5163904ea1}
+      \strng{fullhash}{429ed5b3307ce5054040af5163904ea1}
+      \strng{bibnamehash}{429ed5b3307ce5054040af5163904ea1}
+      \strng{authorbibnamehash}{429ed5b3307ce5054040af5163904ea1}
+      \strng{authornamehash}{429ed5b3307ce5054040af5163904ea1}
+      \strng{authorfullhash}{429ed5b3307ce5054040af5163904ea1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://mattweidner.com/2023/09/26/crdt-survey-1.html}
+      \field{note}{26 set. 2023. Acesso em: 20 jul. 2025}
+      \field{title}{A brief survey of CRDTs -- Part 1}
+      \field{year}{2023}
     \endentry
   \enddatalist
 \endrefsection
