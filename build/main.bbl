@@ -321,6 +321,60 @@
       \verb https://www.youtube.com/watch?v=dPz_5-MEvcg
       \endverb
     \endentry
+    \entry{GadeaIonescuIonescu2020ControlLoopOT}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1241d063dae0fb46762da26097b9762d}{%
+           family={Gadea},
+           familyi={G\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e431854cbe69ee8d6f8d60d4e33e26a0}{%
+           family={Ionescu},
+           familyi={I\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b767e9b6a2847600601e170a8b0e5b92}{%
+           family={Ionescu},
+           familyi={I\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Timișoara, Romania}%
+      }
+      \strng{namehash}{aeaac7c7d1aab41020f8d76b893727b3}
+      \strng{fullhash}{aeaac7c7d1aab41020f8d76b893727b3}
+      \strng{bibnamehash}{aeaac7c7d1aab41020f8d76b893727b3}
+      \strng{authorbibnamehash}{aeaac7c7d1aab41020f8d76b893727b3}
+      \strng{authornamehash}{aeaac7c7d1aab41020f8d76b893727b3}
+      \strng{authorfullhash}{aeaac7c7d1aab41020f8d76b893727b3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE 14th International Symposium on Applied Computational Intelligence and Informatics (SACI 2020)}
+      \field{month}{5}
+      \field{note}{Accessed: 2025-12-15}
+      \field{title}{A Control Loop-based Algorithm for Operational Transformation}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{xx\bibrangedash xx}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.ncct.uottawa.ca
+      \endverb
+      \verb{url}
+      \verb https://www.ncct.uottawa.ca
+      \endverb
+    \endentry
     \entry{GaffneyPrammerBrasfieldHippKennedyPatel2022}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=dcab37e9e6ffd2798d3108367bc186d7}{%
@@ -492,6 +546,44 @@
       \field{edition}{6}
       \field{title}{Métodos e técnicas de pesquisa social}
       \field{year}{2008}
+    \endentry
+    \entry{CAPtheorem2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1de0da84dd43d0f480ffc9c70be34dc5}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cb9c762bb867e8f092a2faa97489360}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Nancy\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{451511d159acfcf44fef911c7868a23c}
+      \strng{fullhash}{451511d159acfcf44fef911c7868a23c}
+      \strng{bibnamehash}{451511d159acfcf44fef911c7868a23c}
+      \strng{authorbibnamehash}{451511d159acfcf44fef911c7868a23c}
+      \strng{authornamehash}{451511d159acfcf44fef911c7868a23c}
+      \strng{authorfullhash}{451511d159acfcf44fef911c7868a23c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0018-9162}
+      \field{journaltitle}{Computer}
+      \field{month}{2}
+      \field{note}{Published: 03 January 2012}
+      \field{number}{2}
+      \field{title}{The CAP Theorem: Its Implications for Distributed Systems}
+      \field{volume}{45}
+      \field{year}{2012}
+      \field{pages}{30\bibrangedash 36}
+      \range{pages}{7}
     \endentry
     \entry{GoodrichTamassiaMount2011DataStructuresCpp}{book}{}
       \name{author}{3}{}{%
@@ -690,6 +782,55 @@
       \verb https://offlinefirst.org/
       \endverb
     \endentry
+    \entry{PreguicaBaqueroShapiro2018CRDT}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f33558f034e8c602d56158e0f8358a2}{%
+           family={Preguica},
+           familyi={P\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb140bbbc1d3ac7ec6a28bd9d506581}{%
+           family={Baquero},
+           familyi={B\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f13a03ea8c9e34968f9bc55bb4e93d9f}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bcadca5b061b53f5e222bb14b598df9e}
+      \strng{fullhash}{bcadca5b061b53f5e222bb14b598df9e}
+      \strng{bibnamehash}{bcadca5b061b53f5e222bb14b598df9e}
+      \strng{authorbibnamehash}{bcadca5b061b53f5e222bb14b598df9e}
+      \strng{authornamehash}{bcadca5b061b53f5e222bb14b598df9e}
+      \strng{authorfullhash}{bcadca5b061b53f5e222bb14b598df9e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv:1805.00358v1 [cs.DC]}
+      \field{month}{2}
+      \field{note}{Accessed: 2025-12-15}
+      \field{title}{Conflict-free Replicated Data Types}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1805.00358
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1805.00358
+      \endverb
+    \endentry
     \entry{Resende2020KotlinAndroid}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c054535d4e8abd0c19391c6450cab55}{%
@@ -722,6 +863,53 @@
       \field{labeltitlesource}{title}
       \field{title}{Kotlin com Android: Crie aplicativos de maneira fácil e divertida}
       \field{year}{2020}
+    \endentry
+    \entry{SunEllis1998OperationalTransformation}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d1c9b520f19681a364e2524736b96b74}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Chengzhang},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=322a3032aaa5ba1df0879c9c61e90f37}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Clarence\bibnamedelima (Skip)},
+           giveni={C\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aff484bdbb04544832143d3c0deef403}
+      \strng{fullhash}{aff484bdbb04544832143d3c0deef403}
+      \strng{bibnamehash}{aff484bdbb04544832143d3c0deef403}
+      \strng{authorbibnamehash}{aff484bdbb04544832143d3c0deef403}
+      \strng{authornamehash}{aff484bdbb04544832143d3c0deef403}
+      \strng{authorfullhash}{aff484bdbb04544832143d3c0deef403}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1539-297X}
+      \field{journaltitle}{ACM SIGCHI Bulletin}
+      \field{note}{Accessed: 2025-12-15}
+      \field{number}{2}
+      \field{title}{Operational Transformation in Real-Time Group Editors: Issues, Algorithms, and Achievements}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{30}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{59\bibrangedash 66}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb http://www.cs.colorado.edu/eskip/Home.html
+      \endverb
+      \verb{url}
+      \verb http://www.cs.colorado.edu/eskip/Home.html
+      \endverb
     \endentry
     \entry{tanenbaum2015mos}{book}{}
       \name{author}{2}{}{%

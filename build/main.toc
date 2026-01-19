@@ -84,11 +84,29 @@
 \contentsline {subsection}{\numberline {3.5}ESTRATÉGIAS DE SINCRONIZAÇÃO}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.5.1}TEOREMA \textit {CAP}}{11}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.5.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{11}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{12}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
