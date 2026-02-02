@@ -585,6 +585,66 @@
       \field{pages}{30\bibrangedash 36}
       \range{pages}{7}
     \endentry
+    \entry{Gomes2017VerifyingSEC}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2801b02f566ab896a705287cba09546f}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Victor\bibnamedelimb B.\bibnamedelimi F.},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34b8d5b1d29d175527a6642f3ec8a76d}{%
+           family={Kleppmann},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68edafcab100814bdcd148de0633461b}{%
+           family={Mulligan},
+           familyi={M\bibinitperiod},
+           given={Dominic\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc4b061bc9e1eb54449d09671ee62255}{%
+           family={Beresford},
+           familyi={B\bibinitperiod},
+           given={Alastair\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{9c5d7381362f00cf207b0faf6e60d0cb}
+      \strng{fullhash}{a19fead282b6005981bb4d78906b8794}
+      \strng{bibnamehash}{9c5d7381362f00cf207b0faf6e60d0cb}
+      \strng{authorbibnamehash}{9c5d7381362f00cf207b0faf6e60d0cb}
+      \strng{authornamehash}{9c5d7381362f00cf207b0faf6e60d0cb}
+      \strng{authorfullhash}{a19fead282b6005981bb4d78906b8794}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the ACM on Programming Languages}
+      \field{month}{10}
+      \field{number}{OOPSLA}
+      \field{title}{Verifying Strong Eventual Consistency in Distributed Systems}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{109:1\bibrangedash 109:28}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/3133933
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3133933
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3133933
+      \endverb
+    \endentry
     \entry{GoodrichTamassiaMount2011DataStructuresCpp}{book}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=23dc8c63965c7c18e5e1ec4d33197e0d}{%
@@ -782,6 +842,89 @@
       \verb https://offlinefirst.org/
       \endverb
     \endentry
+    \entry{parker1983detection}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=422738a13cc4c44f122bc80bffd2d440}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3879446beb742a6d66eb57fb473f0ea}{%
+           family={Popek},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b6fed8682ed6e498f4b2e141ea5af7d}{%
+           family={Rudisin},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6d1f239c6a633394337db35a1c7cb33}{%
+           family={Stoughton},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=112ad68923fa37a2b54ab69f5e034139}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe207d2a8ab53b1003c4ba98ea6b059a}{%
+           family={Walton},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f05b83a9fcc9d7d32908817bcc77962e}{%
+           family={Chow},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5cb2b661ab646f5f4d2ebb18ad0a1d4}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef673417c4b58ff27c14dec33ef90465}{%
+           family={Kiser},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c16e9d6856a580cc45efa36676eff0b9}{%
+           family={Kline},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f473cb9bfc06bda7cfb9855ede5f92be}
+      \strng{fullhash}{57b210edb25e37d44f5672849bd7d3db}
+      \strng{bibnamehash}{f473cb9bfc06bda7cfb9855ede5f92be}
+      \strng{authorbibnamehash}{f473cb9bfc06bda7cfb9855ede5f92be}
+      \strng{authornamehash}{f473cb9bfc06bda7cfb9855ede5f92be}
+      \strng{authorfullhash}{57b210edb25e37d44f5672849bd7d3db}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Software Engineering}
+      \field{number}{3}
+      \field{title}{Detection of Mutual Inconsistency in Distributed Systems}
+      \field{volume}{9}
+      \field{year}{1983}
+      \field{pages}{240\bibrangedash 246}
+      \range{pages}{7}
+    \endentry
     \entry{PreguicaBaqueroShapiro2018CRDT}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9f33558f034e8c602d56158e0f8358a2}{%
@@ -863,6 +1006,61 @@
       \field{labeltitlesource}{title}
       \field{title}{Kotlin com Android: Crie aplicativos de maneira fácil e divertida}
       \field{year}{2020}
+    \endentry
+    \entry{Shapiro2015CRDT}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f13a03ea8c9e34968f9bc55bb4e93d9f}{%
+           family={Shapiro},
+           familyi={S\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01eb907fe4f9429b911ea87887f73363}{%
+           family={Preguiça},
+           familyi={P\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb140bbbc1d3ac7ec6a28bd9d506581}{%
+           family={Baquero},
+           familyi={B\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d091ed4cb7e2ab01f03d04bfcd52f83f}{%
+           family={Zawirski},
+           familyi={Z\bibinitperiod},
+           given={Marek},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7936fce3a0285cdf6cd75bdb1ee0e5aa}
+      \strng{fullhash}{00bf62d46bf695019c2c8f76a176456a}
+      \strng{bibnamehash}{7936fce3a0285cdf6cd75bdb1ee0e5aa}
+      \strng{authorbibnamehash}{7936fce3a0285cdf6cd75bdb1ee0e5aa}
+      \strng{authornamehash}{7936fce3a0285cdf6cd75bdb1ee0e5aa}
+      \strng{authorfullhash}{00bf62d46bf695019c2c8f76a176456a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.DC}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Conflict-Free Replicated Data Types}
+      \field{volume}{abs/1512.00168}
+      \field{year}{2015}
+      \verb{eprint}
+      \verb 1512.00168
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1512.00168
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1512.00168
+      \endverb
     \endentry
     \entry{SunEllis1998OperationalTransformation}{article}{}
       \name{author}{2}{}{%

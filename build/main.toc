@@ -98,7 +98,23 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{12}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}CONSISTÊNCIA EVENTUAL FORTE (\textit {SEC})}{12}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.5.4}VETORES DE VERSÃO}{13}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{13}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
