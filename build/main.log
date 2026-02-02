@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  2 FEB 2026 06:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  2 FEB 2026 11:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -583,28 +583,28 @@ Package pdftex.def Info: ./images/coat_of_armas.png  used on input line 3.
 \openout5 = `main.lot'.
 
  [1]) (./sections/lista_acronimos.tex [1] [2]) (./sections/sumario.tex (build/main.toc
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 9.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 9.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 9.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 9.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -614,29 +614,29 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 ]) (./chapters/introducao.tex [1
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 26.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 30.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [2]) (./chapters/metodologia.tex [3] [4]) (./chapters/teorica.tex [5] [6] [7] [8] [9] [10] [11] [12]) [13] [14
+) [2]) (./chapters/metodologia.tex [3] [4] [5]) (./chapters/teorica.tex [6] [7] [8] [9] [10] [11] [12] [13]) [14] [15
 
-] [15] [16] (build/main.aux)
+] [16] [17] [18] (build/main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12984 strings out of 476091
- 249849 string characters out of 5794081
+ 13004 strings out of 476091
+ 250499 string characters out of 5794081
  1866330 words of memory out of 5000000
- 33154 multiletter control sequences out of 15000+600000
+ 33174 multiletter control sequences out of 15000+600000
  536268 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,6n,86p,1937b,4291s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/main.pdf (26 pages, 323364 bytes).
+Output written on build/main.pdf (28 pages, 326250 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
