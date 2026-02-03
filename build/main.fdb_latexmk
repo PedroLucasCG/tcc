@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1770076406 "build/main.bcf" "build/main.bbl" "build/main" 1770081241 0
+["biber build/main"] 1770076406 "build/main.bcf" "build/main.bbl" "build/main" 1770083335 0
   "./bibtex/refs.bib" 1770076405 15120 93a5ef97a5b0768a9212d8aa103eb410 ""
-  "build/main.bcf" 1770081241 116374 3e10f3e89ab3ea2dfc68c69a0cfe8ecf "pdflatex"
+  "build/main.bcf" 1770083335 116374 3e10f3e89ab3ea2dfc68c69a0cfe8ecf "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1770081239 "main.tex" "build/main.pdf" "main" 1770081241 0
+["pdflatex"] 1770083332 "main.tex" "build/main.pdf" "main" 1770083335 0
   "/etc/texmf/web2c/texmf.cnf" 1764768553 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -99,15 +99,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1764768571 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764768614 7880939 1da3996b291f4e64c55a6c83b1f007a5 ""
-  "build/main.aux" 1770081241 16508 558f2b5a9e0c7ba6a1b0c4f4410c379c "pdflatex"
+  "build/main.aux" 1770083334 16508 c34023afda19608aa42cc6a213cc171b "pdflatex"
   "build/main.bbl" 1770076407 57778 9f171efd366d33789c721dc3c35380dc "biber build/main"
-  "build/main.lof" 1770081241 5133 87516fe6ee2e4b409f25311bd9454e5e "pdflatex"
-  "build/main.lot" 1770081241 5133 87516fe6ee2e4b409f25311bd9454e5e "pdflatex"
-  "build/main.run.xml" 1770081241 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
-  "build/main.toc" 1770081241 7316 ebb8c152664ac29a3d762a9450f09dbb "pdflatex"
+  "build/main.lof" 1770083335 5133 87516fe6ee2e4b409f25311bd9454e5e "pdflatex"
+  "build/main.lot" 1770083335 5133 87516fe6ee2e4b409f25311bd9454e5e "pdflatex"
+  "build/main.run.xml" 1770083335 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
+  "build/main.toc" 1770083335 7316 ebb8c152664ac29a3d762a9450f09dbb "pdflatex"
   "chapters/introducao.tex" 1770076636 8284 771a8697cb95509edd1b650bd5b44aef ""
   "chapters/metodologia.tex" 1770081232 5305 cab1a150a3bf7ba95b1c811c7018c01b ""
-  "chapters/teorica.tex" 1770035549 20300 47ed4e58bc4141e374f2f9f6aa69e9d8 ""
+  "chapters/teorica.tex" 1770083332 21256 5c916420a18639557d9b679b2303f766 ""
   "images/coat_of_armas.png" 1764848118 277609 d0dfd5b3b1f679dbcf6e5afad1d0372a ""
   "main.tex" 1765286233 2104 f68c6a6d29a7ae52ff4c1f03ae770032 ""
   "secondtitle.tex" 1764981534 885 d14d2ced62abe22c5081096b2f3d49b6 ""
