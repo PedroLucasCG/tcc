@@ -1361,6 +1361,42 @@
       \field{title}{Traefik Proxy Documentation}
       \field{year}{2025}
     \endentry
+    \entry{ViottiVukolic2016Consistency}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aa7fe32cc6db1745a14ad74da154a585}{%
+           family={Viotti},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=315162164fd9e68fe8c921224a6af08d}{%
+           family={Vukolić},
+           familyi={V\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{28524c45bdfc050296049c1ee2d43c28}
+      \strng{fullhash}{28524c45bdfc050296049c1ee2d43c28}
+      \strng{bibnamehash}{28524c45bdfc050296049c1ee2d43c28}
+      \strng{authorbibnamehash}{28524c45bdfc050296049c1ee2d43c28}
+      \strng{authornamehash}{28524c45bdfc050296049c1ee2d43c28}
+      \strng{authorfullhash}{28524c45bdfc050296049c1ee2d43c28}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.DC}
+      \field{eprinttype}{arXiv}
+      \field{note}{arXiv preprint, v4 (12 Apr 2016)}
+      \field{title}{Consistency in Non-Transactional Distributed Storage Systems}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1512.00168v4
+      \endverb
+    \endentry
     \entry{weidner2023crdtsurvey}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=429ed5b3307ce5054040af5163904ea1}{%

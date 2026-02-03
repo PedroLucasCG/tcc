@@ -5,12 +5,22 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {1.1}PROMLEMÁTICA}{2}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {1.2}OBJETIVOS}{2}{}%
-\contentsline {subsection}{\numberline {1.3}JUSTIFICATIVA}{2}{}%
+\contentsline {subsection}{\numberline {1.3}JUSTIFICATIVA}{3}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{3}{}%
-\contentsline {section}{\numberline {2}METODOLOGIA}{3}{}%
+\contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{4}{}%
+\contentsline {section}{\numberline {2}METODOLOGIA}{4}{}%
 \contentsline {subsection}{\numberline {2.1}ACERCA DAS CATEGORIAS DA PESQUISA}{4}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -20,35 +30,36 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {2.2}ACERDA DO MÉTODO CIENTÍFICO UTILIZADO}{4}{}%
+\contentsline {subsection}{\numberline {2.2}ACERDA DO MÉTODO CIENTÍFICO UTILIZADO}{5}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{6}{}%
-\contentsline {subsection}{\numberline {3.1}LINGUAGENS DE PROGRAMAÇÃO}{6}{}%
+\contentsline {subsection}{\numberline {2.3}ACERCA DO DESENVOLVIMENTO DA APLICAÇÃO}{6}{}%
+\contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{7}{}%
+\contentsline {subsection}{\numberline {3.1}LINGUAGENS DE PROGRAMAÇÃO}{7}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.2}MODELO CLIENTE-SERVIDOR}{6}{}%
+\contentsline {subsection}{\numberline {3.2}MODELO CLIENTE-SERVIDOR}{7}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.3}CONCEITOS ESSENCIAIS PARA A CONSTRUÇÃO DA APLICAÇÃO MÓVEL}{7}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}SISTEMAS \textit {OFFLINE-FIRST}}{7}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.3}CONCEITOS ESSENCIAIS PARA A CONSTRUÇÃO DA APLICAÇÃO MÓVEL}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}SISTEMAS \textit {OFFLINE-FIRST}}{8}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{8}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{9}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -60,10 +71,10 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.4}CONCEITOS ESSENCIAIS DO \textit {MIDDLEWARE} DE \\ SINCRONIZAÇÃO}{9}{}%
+\contentsline {subsection}{\numberline {3.4}CONCEITOS ESSENCIAIS DO \textit {MIDDLEWARE} DE \\ SINCRONIZAÇÃO}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1}REDES \textit {PEER-TO-PEER}}{9}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}REDES \textit {PEER-TO-PEER}}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsubsection}{\numberline {3.4.2}LINGUAGEM DE PROGRAMAÇÃO: \textit {GOLANG}}{10}{}%
@@ -77,38 +88,20 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3}AMBIENTE DE TESTES: \textit {DOCKER}}{10}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}AMBIENTE DE TESTES: \textit {DOCKER}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.5}ESTRATÉGIAS DE SINCRONIZAÇÃO}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}TEOREMA \textit {CAP}}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}TEOREMA \textit {CAP}}{12}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{11}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.3}CONSISTÊNCIA EVENTUAL FORTE (\textit {SEC})}{12}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.4}VETORES DE VERSÃO}{13}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{12}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -117,7 +110,27 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{14}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.5.3}CONSISTÊNCIA EVENTUAL FORTE (\textit {SEC})}{13}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.5.4}VETORES DE VERSÃO}{14}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{15}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

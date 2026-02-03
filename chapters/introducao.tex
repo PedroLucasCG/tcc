@@ -18,11 +18,13 @@ Logo, para esse trabalho será aplicada a construção de sistema no paradigma \
 
 \subsection{PROMLEMÁTICA}
 
-Conforme o teorema CAP e o resultado de impossibilidade \en{FLP}  
+Com a crescente difusão da computação móvel, sistemas devem levar em consideração o funcionamento \en{offline}, isso implica em estratégias para lidar com conectividade intermitente \cite{feyerke2021offlinefirst}; esse problema se intesifica em redes \en{Peer-to-Peer} pois não há servidor central para coordernar a distribuição dados. Conforme o teorema \en{CAP} e o resultado de impossibilidade \en{FLP} um sistema deve realizar compromissos em relação a consistência ou disponibilidade no seu projeto, pois não é possível possuir esses dois fatores e tolerância a partição (essencial em sistemas distribuídos) \cite{CAPtheorem2012}, pois não há algoritmo determinisco capaz de encontrar consenso entre as réplicas em um contexto que assume falhas \cite{FLP1985}. Assim, o objetivo é manter a consistência total de dados entre as réplicas.
+
+As estratégias de sincronização possibilitam a construção de sistemas pensados para o funcionamento \en{offline}, garantindo a consistência eventual entre as réplicas. Elas atendem a problemática de como sincronizar dados de forma eficiente e consistente. Assim, esse texto visa compreender os comportamentos, vantagens e limitações quando aplicadas a ambientes descentralizados. Os seguintes trabalhos realizam comprativos de modelos de consistência de dados: \en{Conflict-Free Replicated Data Types} \cite{Shapiro2015CRDT}, compara \en{CRDTs} com \en{OT}; \cite{ViottiVukolic2016Consistency} apresenta um estudo comparativo de modelos de consistência em sistemas distribuídos. No entanto, observa-se uma lacuna na literatura quanto a um estudo mais generalista e sistemático que compare, de forma abrangente, estratégias diversas de sincronização sob métricas e cenários comuns, particularmente em ambientes descentralizados.
 
 \subsection{OBJETIVOS}
 
-O objetivo geral deste trabalho é investigar e analisar estratégias de sincronização de dados em redes \en{P2P} usando métricas para destacar limitações, vantagens e comportamentos em cenários onde existe conectividade intermitente, propondo reflexões e direcionamentos na aplicação das estratégias utilizadas, criando um protótipo funcional de uma aplicação que testa a investigação teórica. 
+O objetivo geral deste trabalho é desenvolver um sistema para investigar e analisar estratégias de sincronização de dados em redes \en{P2P} usando métricas para destacar limitações, vantagens e comportamentos em cenários onde existe conectividade intermitente, propondo reflexões e direcionamentos na aplicação das estratégias utilizadas, criando um protótipo funcional de uma aplicação que testa a investigação teórica. 
 
 Portanto, os objetivos específicos deste trabalho são:
 
