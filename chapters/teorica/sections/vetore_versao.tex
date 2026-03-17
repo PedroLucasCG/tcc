@@ -1,0 +1,7 @@
+\subsubsection{VETORES DE VERSÃO}
+
+Vetores de versão são estruturas lógicas que codificam atualizações em sequências de pares formados pelo local e o número de atualizações daquele local; assim, em vetores de versão, duas réplicas são inconsistentes se, e apenas se, os seus vetores de versão são incomparáveis, isso é, cada réplica foi sujeita a atualizações que a outra não sofreu \cite{parker1983detection}.  Preguiça et al. (2010) expande ao afirmar que vetores de versão sintetizam histórias de causalidade ao guardar o prefixo dos eventos gerados em qualquer réplica especifica \cite{preguica2010dotted}.
+
+A construção histórica dos vetores de versão inicia com os relógios de Lamport, onde é definido causalidade: se um evento A ocorre antes de um evento B, então o contador de A deve ser menor que o contador de B, contador sendo a marca temporal lógica dos eventos no sistema \cite{lamport1978time}. Relógios de Lamport não podem inferir concorrência, assim, Mattern introduz relógios vetoriais. As posições dos relógios vetoriais são referentes a processos, o valor é referente ao número de eventos ocorridos em cada processo; desse modo, é possível verificar a casualidade e concorrência dos eventos \cite{mattern1989virtual}. 
+
+Portanto, relógios de Lamport codificam causalidade, relógios vetoriais detectam concorrência e vetores de versão adaptam o compotamento de relógios vetoriais para sistemas distribuídos.

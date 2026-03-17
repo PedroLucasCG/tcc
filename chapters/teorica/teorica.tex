@@ -1,0 +1,41 @@
+\section{REFERÊNCIAL TEÓRICO}
+
+Esta seção apresenta conceitos necessários para o desenvolvimento do trabalho, sendo esses: definição de conceitos básicos (linguagens de programação e modelo cliente-servidor) descrição das tecnologias usadas para a construção da aplicação (\en{Go}, \en{Kotlin}, redes \en{Peer-to-Peer}), diferentes tipos de estratégias de sincronização e tópicos essenciais para o seu entendimento tão como comparações com trabalhos relacionados.
+
+\en{Middleware} forma uma camada entre aplicações e plataformas distribuídas para prover transparência de distribuição, isso é, esconder uma porção dos dados, processamento e controle das aplicações \cite{tanenbaum2007dist}. Desse modo, será apresentada nesta seção os conceitos necessários para montar essa camada intermediária tão como componentes dos testes.
+
+As formas de classificar as estratégias de sincronização podem ser de acordo com a necessidade da aplicação em relação a consistência entre as réplicas \cite{tanenbaum2007dist}. Assim, será destacado definições de conceitos essenciais para a categorização e implementação das estratégias de sincronização de dados. 
+
+A aplicação consiste em um leitor de \en{ePub} com a possibilidade de fazer anotações, a sincronização será feita a partir dos compartilhamento dessas anotações na rede, todos os pares deveram ter as anotações dos demais. Desse modo, as tecnologias relevantes são: \en{Golang} e \en{Kotlin} para linguagens de programação e \en{Room} para banco de dados local, onde os dados serão armazenados quando no dispositivo celular do usuário.
+
+
+
+\input{chapters/teorica/sections/linguagens_prog.tex}
+
+\input{chapters/teorica/sections/golang.tex}
+
+\input{chapters/teorica/sections/kotlin.tex}
+
+\input{chapters/teorica/sections/modelo_client_servidor.tex}
+
+\input{chapters/teorica/sections/p2p.tex}
+
+\input{chapters/teorica/sections/offline_first.tex}
+
+\input{chapters/teorica/sections/cap.tex}
+
+\input{chapters/teorica/sections/crdt.tex}
+
+\input{chapters/teorica/sections/vetore_versao.tex}
+
+\input{chapters/teorica/sections/room.tex}
+
+\input{chapters/teorica/sections/sec.tex}
+
+\input{chapters/teorica/sections/docker.tex}
+
+
+\subsection{TRABALHOS RELACIONADOS}
+
+Este trabalho lida com os mecânismos de sincronização de dados, assim trabalhos relacionados a este estão nesse mesmo contexto. Um desses trabalhos é Requisitos para o Projeto de
+Aplicações Móveis Distribuídas \cite{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas} que apresenta o modeo ISAM para construir um sistema de produção de aplicativos para o contexto móvel; publicado em 2001 permanece relevante até os dias atuais devido o seu trabalho na categorização de contexto. Outro trabalho é \en{Implementation of Offline-First Architectures for Android Internet-Based Chat Systems} \cite{Guda2025OfflineFirstAndroidChat} publicado em 2025 segue a mesma linha, propõe uma estrutura para a criação de um \en{chat} para redes locais, não lida com redes descentralizadas mas oferece comentários úteis na sincronização de mensagens. 
