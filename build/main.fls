@@ -666,6 +666,10 @@ INPUT chapters/teorica/sections/p2p.tex
 INPUT ./chapters/teorica/sections/p2p.tex
 INPUT chapters/teorica/sections/p2p.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT ./chapters/teorica/sections/p2p.tex
+INPUT chapters/teorica/sections/p2p.tex
+INPUT ./chapters/teorica/sections/p2p.tex
+INPUT chapters/teorica/sections/p2p.tex
 INPUT ./chapters/teorica/sections/offline_first.tex
 INPUT chapters/teorica/sections/offline_first.tex
 INPUT ./chapters/teorica/sections/offline_first.tex

@@ -64,6 +64,9 @@
 \contentsline {subsubsection}{\numberline {3.4.1}REDES \textit {PEER-TO-PEER}}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2}REDES \textit {PEER-TO-PEER}}{10}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.5}SISTEMAS \textit {OFFLINE-FIRST}}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -80,7 +83,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{12}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -91,7 +94,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.3}VETORES DE VERSÃO}{13}{}%
+\contentsline {subsection}{\numberline {3.6}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{13}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -100,24 +103,28 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.4}BANCO DE DADOS: \textit {ROOM}}{13}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.7}BANCO DE DADOS: \textit {ROOM}}{14}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.5}CONSISTÊNCIA EVENTUAL FORTE (\textit {SEC})}{14}{}%
+\contentsline {subsection}{\numberline {3.8}CONSISTÊNCIA EVENTUAL FORTE (\textit {SEC})}{14}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.6}AMBIENTE DE TESTES: \textit {DOCKER}}{15}{}%
+\contentsline {subsection}{\numberline {3.9}AMBIENTE DE TESTES: \textit {DOCKER}}{15}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.6}TRABALHOS RELACIONADOS}{15}{}%
+\contentsline {subsection}{\numberline {3.10}TRABALHOS RELACIONADOS}{15}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

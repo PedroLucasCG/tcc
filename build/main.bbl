@@ -19,6 +19,49 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{almeida2002versionstamps}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cd7440e62312e9d30877948d743feec9}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Paulo\bibnamedelima Sérgio},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb140bbbc1d3ac7ec6a28bd9d506581}{%
+           family={Baquero},
+           familyi={B\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1be244405000d1d2414d706fc093f135}{%
+           family={Fonte},
+           familyi={F\bibinitperiod},
+           given={Víctor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC, USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{bef32adb0d7fa51f7b08b50e444157e8}
+      \strng{fullhash}{bef32adb0d7fa51f7b08b50e444157e8}
+      \strng{bibnamehash}{bef32adb0d7fa51f7b08b50e444157e8}
+      \strng{authorbibnamehash}{bef32adb0d7fa51f7b08b50e444157e8}
+      \strng{authornamehash}{bef32adb0d7fa51f7b08b50e444157e8}
+      \strng{authorfullhash}{bef32adb0d7fa51f7b08b50e444157e8}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 22nd International Conference on Distributed Computing Systems (ICDCS'02)}
+      \field{title}{Version Stamps --- Decentralized Version Vectors}
+      \field{year}{2002}
+    \endentry
     \entry{AndroidJetpackRoom}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7ace771b22ac28958ff5694e260839cc}{%
