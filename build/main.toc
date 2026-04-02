@@ -41,49 +41,35 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.1}LINGUAGENS DE PROGRAMAÇÃO}{7}{}%
+\contentsline {subsection}{\numberline {3.1}SISTEMAS DISTRIBUÍDOS E A INTERNET}{7}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.2}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{8}{}%
+\contentsline {subsection}{\numberline {3.2}LINGUAGENS DE PROGRAMAÇÃO}{8}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.3}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{9}{}%
+\contentsline {subsection}{\numberline {3.3}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{9}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.4}MODELO CLIENTE-SERVIDOR}{9}{}%
+\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{9}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1}REDES \textit {PEER-TO-PEER}}{10}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.4.2}REDES \textit {PEER-TO-PEER}}{10}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.5}SISTEMAS \textit {OFFLINE-FIRST}}{10}{}%
+\contentsline {subsection}{\numberline {3.5}MODELO CLIENTE-SERVIDOR}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}TEOREMA \textit {CAP}}{11}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{12}{}%
+\contentsline {subsection}{\numberline {3.6}SISTEMAS \textit {OFFLINE-FIRST}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -92,9 +78,14 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.6.1}TEOREMA \textit {CAP}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.6}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{13}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsubsection}{\numberline {3.6.2}ESTRATÉGIA DE SINCRONIZAÇÃO: \textit {CRDT}}{12}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -105,7 +96,11 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.7}BANCO DE DADOS: \textit {ROOM}}{14}{}%
+\contentsline {subsection}{\numberline {3.7}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{13}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -119,10 +114,31 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.9}AMBIENTE DE TESTES: \textit {DOCKER}}{15}{}%
+\contentsline {subsection}{\numberline {3.9}BANCO DE DADOS: \textit {ROOM}}{15}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.10}TRABALHOS RELACIONADOS}{15}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.10}AMBIENTE DE TESTES: \textit {DOCKER}}{15}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{16}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

@@ -8,6 +8,7 @@ As formas de classificar as estratégias de sincronização podem ser de acordo 
 
 A aplicação consiste em um leitor de \en{ePub} com a possibilidade de fazer anotações, a sincronização será feita a partir dos compartilhamento dessas anotações na rede, todos os pares devem ter as anotações dos demais. Desse modo, as tecnologias relevantes são: \en{Java} e \en{Kotlin} para linguagens de programação e \en{Room} para banco de dados local, onde os dados serão armazenados no dispositivo móvel.
 
+\input{chapters/teorica/sections/sistemas_distri_internet.tex}
 
 \input{chapters/teorica/sections/linguagens_prog.tex}
 
@@ -16,8 +17,6 @@ A aplicação consiste em um leitor de \en{ePub} com a possibilidade de fazer an
 \input{chapters/teorica/sections/java.tex}
 
 \input{chapters/teorica/sections/modelo_client_servidor.tex}
-
-\input{chapters/teorica/sections/p2p.tex}
 
 \input{chapters/teorica/sections/offline_first.tex}
 
@@ -36,5 +35,10 @@ A aplicação consiste em um leitor de \en{ePub} com a possibilidade de fazer an
 
 \subsection{TRABALHOS RELACIONADOS}
 
-Este trabalho lida com os mecânismos de sincronização de dados, assim trabalhos relacionados a este estão nesse mesmo contexto. Um desses trabalhos é Requisitos para o Projeto de
-Aplicações Móveis Distribuídas \cite{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas} que apresenta o modelo ISAM para construir um sistema de produção de aplicativos para o contexto móvel; publicado em 2001 permanece relevante até os dias atuais devido o seu trabalho na categorização de contexto. Outro trabalho é \en{Implementation of Offline-First Architectures for Android Internet-Based Chat Systems} \cite{Guda2025OfflineFirstAndroidChat} publicado em 2025 segue a mesma linha, propõe uma estrutura para a criação de um \en{chat} para redes locais, não lida com redes descentralizadas mas oferece comentários úteis na sincronização de mensagens. 
+Os trabalhos relacionados a essa pesquisa estão presentes no contexto de sincronização de dados em sistemas distribuídos. Desse modo, pode-se destacar o trabalho de Lamport, responsável por formalizar a noção de causalidade entre eventos em sistemas computacionais, que se torna a base para rastrear dependências entre eventos distribuídos \cite{lamport1978time}. Mattern oferece uma progressão natural ao introduzir a noção de tempo virtual e relógios vetoriais, que possibilita a detecção de concorrência entre eventos \cite{mattern1989virtual}. Assim, Parker et al. exibe uma perspectiva central para sistemas \en{Offline-First} onde afirma: quando réplicas evoluem de forma independente enquanto desconectadas, conflitos são o resultado natural desse modo de operar, não uma exceção; então sugerem um mecanismo de rastreamento de versões que permite comparar dados e distinguir se duas cópias são equivalentes \cite{parker1983detection}.
+
+Nessa linha de manter as réplicas consistentes há o trabalho de Demers et al.; nele é investigado algoritmos epidêmicos, isso é: algoritmos que propagam dados de modo similar à propagação de epidemias. No trabalho é discutido métodos como \en{direct mail}, \en{rumor mongering} e \en{anti-entropy} \cite{demers1987epidemic}; algoritmos epidêmicos são uma boa escolha para redes \en{peer-to-peer} devido ao seu caráter descentralizado.
+
+Para exemplos práticos nota-se os trabalhos que aplicam o paradigma \en{Offline-First}. Um desses trabalhos é Requisitos para o Projeto de Aplicações Móveis Distribuídas \cite{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas} que apresenta o modelo ISAM para construir um sistema de produção de aplicativos para o contexto móvel; publicado em 2001 permanece relevante até os dias atuais devido o seu trabalho na categorização de contexto. Outro trabalho é \en{Implementation of Offline-First Architectures for Android Internet-Based Chat Systems} \cite{Guda2025OfflineFirstAndroidChat} publicado em 2025 segue a mesma linha, propõe uma estrutura para a criação de um \en{chat} para redes locais, não lida com redes descentralizadas mas oferece comentários úteis na sincronização de mensagens. 
+
+Desse modo, os trabalhos citados apontam uma trajetória conceitual: definição de conceitos básicos como causalidade, segue para mecanismos de detecção de incosistência e propagação de dados de forma descentralizada; finalmente, alcança aplicações práticas de sistemas projetados para funcionar no contexto de dispositivos móveis. É nesse percurso que este trabalho se insere, como um estudo das estratégias de sincronização de dados em redes \en{peer-to-peer} com aplicações que adotam o paradigma \en{Offline-First}. 

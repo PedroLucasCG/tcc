@@ -19,6 +19,67 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{alberti2016distributedsystemsfutureinternet}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8fc956dbfacf7f81b0b76073ea033e9a}{%
+           family={Alberti},
+           familyi={A\bibinitperiod},
+           given={Antonio\bibnamedelima Marcos},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10f34201019dc4a77fbfa9197c2ca1da}{%
+           family={Casaroli},
+           familyi={C\bibinitperiod},
+           given={Marco\bibnamedelimb Aurelio\bibnamedelima Favoreto},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbbdd2b9c8191025efad76d82662802f}{%
+           family={Rosa\bibnamedelima Righi},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=4e1f92d9a1515054647ff8ac4845b74e}{%
+           family={Wendt},
+           familyi={W\bibinitperiod},
+           given={Ivam\bibnamedelima Guilherme},
+           giveni={I\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=706a3ee8e7f56b643a11e4435d6e01af}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Dhananjay},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26461a77d2ba48bf599699b1b2a1a1be}
+      \strng{fullhash}{610f2096aa78e3883cb40ee2e3a511bc}
+      \strng{bibnamehash}{26461a77d2ba48bf599699b1b2a1a1be}
+      \strng{authorbibnamehash}{26461a77d2ba48bf599699b1b2a1a1be}
+      \strng{authornamehash}{26461a77d2ba48bf599699b1b2a1a1be}
+      \strng{authorfullhash}{610f2096aa78e3883cb40ee2e3a511bc}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2176-6649}
+      \field{journaltitle}{Revista Brasileira de Computação Aplicada}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{On analyzing problems of distributed systems and current internet in front of the future internet architectures}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{2\bibrangedash 18}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.5335/rbca.v8i3.5889
+      \endverb
+    \endentry
     \entry{almeida2002versionstamps}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=cd7440e62312e9d30877948d743feec9}{%
@@ -232,6 +293,80 @@
       \verb{doi}
       \verb 10.1007/978-3-319-93527-0_4
       \endverb
+    \endentry
+    \entry{demers1987epidemic}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=be7e2bffd111b09f90dd36ebbcfe3014}{%
+           family={Demers},
+           familyi={D\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e48ab7a4dedf30c51ff247a5df43d769}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc1fa59443f7f62eb47d357a836d890f}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de92243887ecb02415ab1849c1751fff}{%
+           family={Irish},
+           familyi={I\bibinitperiod},
+           given={Wes},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56bb92f1f3121adc867cf0b22f17c16b}{%
+           family={Larson},
+           familyi={L\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d2fd528d2484047352789c731e250a5}{%
+           family={Shenker},
+           familyi={S\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d58050811966d9eb06e608d4185ded3}{%
+           family={Sturgis},
+           familyi={S\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02398f610c6e7fc197ff64893617e7b4}{%
+           family={Swinehart},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d1aad79f869b244dfb7fb43753f7a8a}{%
+           family={Terry},
+           familyi={T\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97c55303ed27a4bf56e0ae1e80eb5fe5}
+      \strng{fullhash}{8217ca55789badc9c44165cbfdb84e75}
+      \strng{bibnamehash}{97c55303ed27a4bf56e0ae1e80eb5fe5}
+      \strng{authorbibnamehash}{97c55303ed27a4bf56e0ae1e80eb5fe5}
+      \strng{authornamehash}{97c55303ed27a4bf56e0ae1e80eb5fe5}
+      \strng{authorfullhash}{8217ca55789badc9c44165cbfdb84e75}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Sixth Annual ACM Symposium on Principles of Distributed Computing}
+      \field{month}{8}
+      \field{title}{Epidemic Algorithms for Replicated Database Maintenance}
+      \field{year}{1987}
     \endentry
     \entry{DockerOverviewDocs}{misc}{}
       \name{author}{1}{}{%
@@ -777,6 +912,69 @@
       \field{note}{Acesso em: 20 mar. 2026}
       \field{title}{Core Java - Fundamentals, Volume 1}
       \field{year}{2021}
+    \endentry
+    \entry{khole2023compendium}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=195cb1d763de09835c304fdd02e477d3}{%
+           family={Khole},
+           familyi={K\bibinitperiod},
+           given={Aneesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b16de8ad5b4c0315d94ebc6b65432f55}{%
+           family={Jadhav},
+           familyi={J\bibinitperiod},
+           given={Hrithik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5765c4d44228a5ef81d3708446cf12ea}{%
+           family={Thakar},
+           familyi={T\bibinitperiod},
+           given={Atharva},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34ec714ae5579b1868ace8b91b6d5389}{%
+           family={Shende},
+           familyi={S\bibinitperiod},
+           given={Shreyas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5ed362a7f32168bfb6399c332e6d9dd}{%
+           family={Kulkarni},
+           familyi={K\bibinitperiod},
+           given={Avadhoot},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a69932d44fe7d338d37fd5f79ec36f4f}{%
+           family={Karajkhede},
+           familyi={K\bibinitperiod},
+           given={Varad},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf7091e7bc6a406eb1a237c7d862e787}
+      \strng{fullhash}{efe4b739a773a0b23ca7010dd8c5f6bc}
+      \strng{bibnamehash}{bf7091e7bc6a406eb1a237c7d862e787}
+      \strng{authorbibnamehash}{bf7091e7bc6a406eb1a237c7d862e787}
+      \strng{authornamehash}{bf7091e7bc6a406eb1a237c7d862e787}
+      \strng{authorfullhash}{efe4b739a773a0b23ca7010dd8c5f6bc}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marathwada Mitra Mandal's College of Engineering}
+      \field{note}{Computer Science Department, Pune, India}
+      \field{title}{A Compendium on Distributed Systems}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.13860934
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.13860934
+      \endverb
+      \keyw{Distributed Systems,Heterogeneity,Concurrency,Scalability,Encryption,HTCondor,Entropia}
     \endentry
     \entry{lamport1978time}{article}{}
       \name{author}{1}{}{%

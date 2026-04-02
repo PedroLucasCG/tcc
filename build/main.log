@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  22 MAR 2026 17:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  2 APR 2026 09:24
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -146,7 +146,9 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box51
 \enit@count@id=\count268
 \enitdp@description=\count269
-) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
  (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
@@ -163,10 +165,10 @@ Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count270
  (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -222,7 +224,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibparsep=\skip71
 \bibhang=\skip72
 \blx@bcfin=\read3
-\blx@bcfout=\write3
+\blx@bcfout=\write4
 \blx@langwohyphens=\language88
 \c@mincomprange=\count314
 \c@maxcomprange=\count315
@@ -428,26 +430,26 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 52.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 53.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (build/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count400
@@ -524,13 +526,13 @@ File: brazilian.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (build/main.bbl)
-Package biblatex Info: Reference section=0 on input line 52.
-Package biblatex Info: Reference segment=0 on input line 52.
+Package biblatex Info: Reference section=0 on input line 53.
+Package biblatex Info: Reference segment=0 on input line 53.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -575,12 +577,12 @@ Package pdftex.def Info: ./images/coat_of_armas.png  used on input line 3.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/coat_of_armas.png>]) (./secondtitle.tex [1]) (./sections/agradecimentos.tex [1]) (./sections/resumo.tex [1]) (./sections/abstract.tex [1]) (./sections/lista_figuras.tex (build/main.lof)
-\tf@lof=\write4
-\openout4 = `main.lof'.
+\tf@lof=\write5
+\openout5 = `main.lof'.
 
  [1]) (./sections/lista_tabelas.tex (build/main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
+\tf@lot=\write6
+\openout6 = `main.lot'.
 
  [1]) (./sections/lista_acronimos.tex [1] [2]) (./sections/sumario.tex (build/main.toc
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 7.
@@ -606,8 +608,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 )
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write7
+\openout7 = `main.toc'.
 
  [1
 
@@ -617,26 +619,26 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 32.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [2]) [3] (./chapters/metodologia.tex [4] [5]) (./chapters/teorica/teorica.tex [6] (./chapters/teorica/sections/linguagens_prog.tex [7]) (./chapters/teorica/sections/kotlin.tex) (./chapters/teorica/sections/java.tex [8]) (./chapters/teorica/sections/modelo_client_servidor.tex [9] (./chapters/teorica/sections/p2p.tex)) (./chapters/teorica/sections/p2p.tex) (./chapters/teorica/sections/offline_first.tex [10]) (./chapters/teorica/sections/cap.tex) [11] (./chapters/teorica/sections/crdt.tex) [12] (./chapters/teorica/sections/vetore_versao.tex) (./chapters/teorica/sections/room.tex [13]) (./chapters/teorica/sections/sec.tex [14]) (./chapters/teorica/sections/docker.tex)) [15] [16] [17
+) [2]) [3] (./chapters/metodologia.tex [4] [5]) (./chapters/teorica/teorica.tex [6] (./chapters/teorica/sections/sistemas_distri_internet.tex Excluding 'comment' comment. [7]) (./chapters/teorica/sections/linguagens_prog.tex) (./chapters/teorica/sections/kotlin.tex [8]) (./chapters/teorica/sections/java.tex) [9] (./chapters/teorica/sections/modelo_client_servidor.tex (./chapters/teorica/sections/p2p.tex)) (./chapters/teorica/sections/offline_first.tex [10]) (./chapters/teorica/sections/cap.tex [11]) (./chapters/teorica/sections/crdt.tex [12]) (./chapters/teorica/sections/vetore_versao.tex [13]) (./chapters/teorica/sections/sec.tex [14]) (./chapters/teorica/sections/room.tex) (./chapters/teorica/sections/docker.tex) [15]) [16] [17] [18
 
-] [18] [19] [20] (build/main.aux)
+] [19] [20] [21] (build/main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13070 strings out of 476091
- 252879 string characters out of 5794081
+ 13150 strings out of 476091
+ 254933 string characters out of 5794081
  1866330 words of memory out of 5000000
- 33202 multiletter control sequences out of 15000+600000
+ 33277 multiletter control sequences out of 15000+600000
  536268 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,6n,89p,1937b,4291s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/main.pdf (30 pages, 331241 bytes).
+Output written on build/main.pdf (31 pages, 336273 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
+ 133 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

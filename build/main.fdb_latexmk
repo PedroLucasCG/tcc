@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1774210723 "build/main.bcf" "build/main.bbl" "build/main" 1774210729 0
-  "./bibtex/refs.bib" 1774209072 15970 1674df2601e26cdd0c3ca83f8f7178cb ""
-  "build/main.bcf" 1774210729 116243 4bb7e287f9cbb0911312507bea43df9b "pdflatex"
+["biber build/main"] 1775131907 "build/main.bcf" "build/main.bbl" "build/main" 1775132651 0
+  "./bibtex/refs.bib" 1775131885 17425 1e34c134209d82b6053523b6b681d98d ""
+  "build/main.bcf" 1775132651 116638 df019183dfb9cf6ff2b88d83f1c9de59 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1774210727 "main.tex" "build/main.pdf" "main" 1774210729 0
+["pdflatex"] 1775132649 "main.tex" "build/main.pdf" "main" 1775132651 0
   "/etc/texmf/web2c/texmf.cnf" 1764768553 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -61,6 +61,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx" 1510525977 8737 e466b708437b92cb489e31ba51ec68cb ""
   "/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/brazil.lbx" 1342308459 128 ce50470856090a2801a4487cd52e652b ""
   "/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/brazilian.lbx" 1643926307 29922 08c3e2a1b4d708e81ec5aee985c20cbf ""
+  "/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty" 1472166125 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg" 1429144587 7068 06f8d141725d114847527a66439066b6 ""
   "/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def" 1663185836 21994 2bc2a882df92d97dbce35c06bb1d3541 ""
   "/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty" 1663185836 62761 3c92d495a9e03d7254b9a3266aa17164 ""
@@ -99,12 +100,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1764768571 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764768614 7880939 1da3996b291f4e64c55a6c83b1f007a5 ""
-  "build/main.aux" 1774210729 15822 79609e15602f3ac0c2d532486666c846 "pdflatex"
-  "build/main.bbl" 1774210724 57295 d326c7e79027fb104d808ba1910f33e6 "biber build/main"
-  "build/main.lof" 1774210729 4959 fdfe3498c95a5cc42c30dc29705c23db "pdflatex"
-  "build/main.lot" 1774210729 4959 fdfe3498c95a5cc42c30dc29705c23db "pdflatex"
-  "build/main.run.xml" 1774210729 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
-  "build/main.toc" 1774210729 6898 367d9379396e4854ffff9a0386705a42 "pdflatex"
+  "build/main.aux" 1775132651 17028 e6e9060a88298fc3ddca57ebee4749d5 "pdflatex"
+  "build/main.bbl" 1775131908 65458 e58cfb3235d7f01aeebc4a22a9210665 "biber build/main"
+  "build/main.lof" 1775132651 5423 5ebaabc015c5fcfc9586ad428d81b527 "pdflatex"
+  "build/main.lot" 1775132651 5423 5ebaabc015c5fcfc9586ad428d81b527 "pdflatex"
+  "build/main.run.xml" 1775132651 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
+  "build/main.toc" 1775132651 7365 5233b105377989147a80fd4e1e4b72b1 "pdflatex"
   "chapters/introducao.tex" 1770076636 8284 771a8697cb95509edd1b650bd5b44aef ""
   "chapters/metodologia.tex" 1770081232 5305 cab1a150a3bf7ba95b1c811c7018c01b ""
   "chapters/teorica/sections/cap.tex" 1774201865 1521 ae1e09900a6b361cd2cf7106c50c9467 ""
@@ -118,10 +119,11 @@
   "chapters/teorica/sections/p2p.tex" 1773668950 773 310bb1ab5a4ea400ab4a4920421476ec ""
   "chapters/teorica/sections/room.tex" 1774209501 1297 256e0c20a5e5ac77723a3d65857365c3 ""
   "chapters/teorica/sections/sec.tex" 1774209521 2065 79e7ee8808e4be525e6f63ccea68424c ""
+  "chapters/teorica/sections/sistemas_distri_internet.tex" 1775132647 2334 3625752ebbd2def71ccbf3015c84f60f ""
   "chapters/teorica/sections/vetore_versao.tex" 1774209446 1890 059ff5249336aec3ddc48b5ab466eab9 ""
-  "chapters/teorica/teorica.tex" 1774210619 3129 7127f9e01b96a399b472552426d2b323 ""
+  "chapters/teorica/teorica.tex" 1775043238 5063 1171965482ee8fb94f79efea3d0a9773 ""
   "images/coat_of_armas.png" 1764848118 277609 d0dfd5b3b1f679dbcf6e5afad1d0372a ""
-  "main.tex" 1773748052 2112 40ba5a44439a6e10254dec961c3c3428 ""
+  "main.tex" 1774869980 2133 959d9aca35223181c5bffbebbd085af3 ""
   "secondtitle.tex" 1764981534 885 d14d2ced62abe22c5081096b2f3d49b6 ""
   "sections/abstract.tex" 1764981118 2099 ddadd70c1f544f4e48e83f298c2b155c ""
   "sections/agradecimentos.tex" 1764900185 104 a57e204eab654298c624bfd0a73255a0 ""
