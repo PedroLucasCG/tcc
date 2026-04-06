@@ -401,6 +401,44 @@
       \verb https://docs.docker.com/get-started/docker-overview/
       \endverb
     \endentry
+    \entry{efuntade2023api}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c49a4476711df90b3cca017ee2067a0d}{%
+           family={Efuntade},
+           familyi={E\bibinitperiod},
+           given={Olubunmi\bibnamedelima Omotayo},
+           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=230c7b58daccb8ea2286191bd4a11de9}{%
+           family={Efuntade},
+           familyi={E\bibinitperiod},
+           given={Alani\bibnamedelima Olusegun},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3dc07e176fc7b9f6f27117aa75704dbf}
+      \strng{fullhash}{3dc07e176fc7b9f6f27117aa75704dbf}
+      \strng{bibnamehash}{3dc07e176fc7b9f6f27117aa75704dbf}
+      \strng{authorbibnamehash}{3dc07e176fc7b9f6f27117aa75704dbf}
+      \strng{authornamehash}{3dc07e176fc7b9f6f27117aa75704dbf}
+      \strng{authorfullhash}{3dc07e176fc7b9f6f27117aa75704dbf}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Accounting and Financial Management}
+      \field{number}{6}
+      \field{title}{Application Programming Interface (API) And Management of Web-Based Accounting Information System (AIS): Security of Transaction Processing System, General Ledger and Financial Reporting System}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.56201/jafm.v9.no6.2023.pg1.18
+      \endverb
+    \endentry
     \entry{feyerke2021offlinefirst}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bb95f3a3999896e45da13be223145904}{%

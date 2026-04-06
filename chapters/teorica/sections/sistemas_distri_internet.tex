@@ -3,10 +3,11 @@
 \begin{comment}
 Adicionar:
   - Relacionar contexto do ISAM com o contexto da INTERNET
+  - Falar sobre torrent
 
 Melhorar:
-  - Pegar funcionalidades do CORBA quando listar as funcionalidades de middlewares
-  - Referência para embasar a afirmação sobre os componentes dos sitemas distribuídos
+  - Pegar funcionalidades do CORBA quando listar as funcionalidades de middlewares (rejeitado)
+  - Referência para embasar a afirmação sobre os componentes dos sitemas distribuídos (feito)
 
 Estrutura do paragrafo
   - Contextualizar a internet como um conjunto de sistemas distribuídos
@@ -17,6 +18,8 @@ Estrutura do paragrafo
 \end{comment}
 
 
-A \en{internet} ocupa um papel essencial na atualidade, através da computação móvel, aplicações empresariais, redes \en{LAN}, redes sem-fio (\en{WIFI}), e outros exemplos de conectividade que possibilitam a conexão. Essas conexões ocorrem de diversas formas: \en{WiMAX} (interoperabilidade mundial de acesso a micro-ondas), \en{Bluetooth}, quarta geração de redes móveis (4G) e outros exemplos de trammissão de dados pelo meio físico. Para possibilitar essa comunicação há os protocolos de rede como o \en{TCP} e o \en{IP} que, dentre outros, formam o modelo referêncial \en{TCP/IP} que define a pilha de protocolos reponsáveis por ligar os dados vindos pelos meios físicos às aplicações \cite{alberti2016distributedsystemsfutureinternet}. Nota-se, desse modo, como sistemas distintos conseguem cooperar na \en{internet}.
+A \en{internet} ocupa um papel essencial na atualidade, através da computação móvel, aplicações empresariais, redes \en{LAN}, redes sem-fio (\en{WIFI}), e outros exemplos de conectividade. Essas conexões ocorrem de diversas formas: \en{WiMAX} (interoperabilidade mundial de acesso a micro-ondas), \en{Bluetooth}, quarta geração de redes móveis (4G) e outros exemplos de trammissão de dados pelo meio físico. Para possibilitar essa comunicação há os protocolos de rede como o \en{TCP} e o \en{IP} que, dentre outros, formam o modelo referêncial \en{TCP/IP} que define a pilha de protocolos reponsáveis por ligar os dados vindos pelos meios físicos às aplicações \cite{alberti2016distributedsystemsfutureinternet}. Nota-se, desse modo, como sistemas distintos conseguem cooperar na \en{internet}.
 
-Esse conjunto de sistemas distintos dividem a tarefa de processamento de dados entre si, formando sistemas distribuídos. Um sistema distribuído é um ambiente de computação, onde vários componentes localizados em multiplos dispositivos de computação em uma rede segregam trabalho entre si, de modo que, para o usuário final, pareça ser um sistema único que realiza o trabalho \cite{khole2023compendium}. Os componentes de um sistema distribuídos são \en{softwares} com responsabilidades específicas, como: \en{APIs} que são resposáveis por conectar o cliente com o componente de persistência de dados e aplicar a lógica de negócio; \en{middlewares} responsáveis por afunilar o trafégo de dados, filtrando dados, aplicando restrição de acesso, validações em requisições, etc. 
+Esse conjunto de sistemas distintos dividem a tarefa de processamento de dados entre si, formando sistemas distribuídos. Um sistema distribuído é um ambiente de computação, onde vários componentes localizados em multiplos dispositivos de computação em uma rede segregam trabalho entre si, de modo que, para o usuário final, pareça ser um sistema único que realiza o trabalho \cite{khole2023compendium}. Os componentes de um sistema distribuídos são \en{softwares} ou um dispositivo com responsabilidades específicas, como: \en{APIs} que são resposáveis por permitir desenvolvedores acessar os recursos de um \en{software} \cite{efuntade2023api}; \en{middlewares} responsáveis por adaptar dados para interfaces específicas ou interceptar o fluxo de dados para executar alguma operação \cite{tanenbaum2007dist}. 
+
+
