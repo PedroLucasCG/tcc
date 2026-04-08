@@ -922,6 +922,77 @@
       \verb 10.54660/IJMRGE.2025.6.3.1200-1203
       \endverb
     \endentry
+    \entry{guo2007performance}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=af765f6dc44eefb9b2e466f0ef1660c5}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09822ae197ee05a0f8b9feab1124697b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Songqing},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4db30f57c056db9d871d11620df2af1d}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7391e15bee376dae9c84bb5358bc428}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Enhua},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c1666d72aed77962a0ee36eade07538}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Xiaoning},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afa24df8fadadd706de381a7551af02d}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a58567eaeafaf10fc4d1f9f7cd304cb9}
+      \strng{fullhash}{62ca691e4b5a21ee45d671855ac5e50f}
+      \strng{bibnamehash}{a58567eaeafaf10fc4d1f9f7cd304cb9}
+      \strng{authorbibnamehash}{a58567eaeafaf10fc4d1f9f7cd304cb9}
+      \strng{authornamehash}{a58567eaeafaf10fc4d1f9f7cd304cb9}
+      \strng{authorfullhash}{62ca691e4b5a21ee45d671855ac5e50f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Selected Areas in Communications}
+      \field{number}{1}
+      \field{title}{A Performance Study of BitTorrent-like Peer-to-Peer Systems}
+      \field{volume}{25}
+      \field{year}{2007}
+      \field{pages}{155\bibrangedash 167}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/JSAC.2007.070116
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/JSAC.2007.070116
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/JSAC.2007.070116
+      \endverb
+    \endentry
     \entry{corejavafundamentals}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=456d33dfcb70fa5084da2ee2c1462e08}{%
