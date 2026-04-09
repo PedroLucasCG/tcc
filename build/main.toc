@@ -64,7 +64,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{9}{}%
+\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -74,7 +74,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{10}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.6}SISTEMAS \textit {OFFLINE-FIRST}}{11}{}%
@@ -104,7 +104,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.7}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{13}{}%
+\contentsline {subsection}{\numberline {3.7}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{14}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

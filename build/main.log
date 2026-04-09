@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  8 APR 2026 09:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.12.3)  9 APR 2026 09:22
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -619,7 +619,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 32.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [2]) [3] (./chapters/metodologia.tex [4] [5]) (./chapters/teorica/teorica.tex [6] (./chapters/teorica/sections/sistemas_distri_internet.tex Excluding 'comment' comment. [7]) (./chapters/teorica/sections/linguagens_prog.tex) [8] (./chapters/teorica/sections/kotlin.tex) (./chapters/teorica/sections/java.tex [9]) (./chapters/teorica/sections/modelo_client_servidor.tex (./chapters/teorica/sections/p2p.tex)) [10] (./chapters/teorica/sections/offline_first.tex) (./chapters/teorica/sections/cap.tex [11]) (./chapters/teorica/sections/crdt.tex [12]) (./chapters/teorica/sections/vetore_versao.tex [13]) (./chapters/teorica/sections/sec.tex [14]) (./chapters/teorica/sections/room.tex) (./chapters/teorica/sections/docker.tex) [15] [16]) [17] [18
+) [2]) [3] (./chapters/metodologia.tex [4] [5]) (./chapters/teorica/teorica.tex [6] (./chapters/teorica/sections/sistemas_distri_internet.tex Excluding 'comment' comment. [7]) (./chapters/teorica/sections/linguagens_prog.tex [8]) (./chapters/teorica/sections/kotlin.tex) (./chapters/teorica/sections/java.tex [9]) (./chapters/teorica/sections/modelo_client_servidor.tex [10] (./chapters/teorica/sections/p2p.tex)) (./chapters/teorica/sections/offline_first.tex) [11] (./chapters/teorica/sections/cap.tex) (./chapters/teorica/sections/crdt.tex [12]) (./chapters/teorica/sections/vetore_versao.tex [13]) (./chapters/teorica/sections/sec.tex [14]) (./chapters/teorica/sections/room.tex) [15] (./chapters/teorica/sections/docker.tex) [16]) [17] [18
 
 ] [19] [20] [21] (build/main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -635,7 +635,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  77i,6n,89p,1937b,4291s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on build/main.pdf (31 pages, 337506 bytes).
+Output written on build/main.pdf (31 pages, 337893 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
