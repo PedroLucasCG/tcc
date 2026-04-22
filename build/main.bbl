@@ -294,6 +294,82 @@
       \verb 10.1007/978-3-319-93527-0_4
       \endverb
     \endentry
+    \entry{nicbr2026_paineltic2025_a4w}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee05cf54e307ab3ec978e5b52a84798a}{%
+           family={{Cetic}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação}%
+      }
+      \strng{namehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{fullhash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{bibnamehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{authorbibnamehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{authornamehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{authorfullhash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cetic.br}
+      \field{note}{Tabelas. Indicador A4W}
+      \field{title}{Painel TIC 2025: pesquisa online com usuários de Internet no Brasil: integridade da informação -- A4W - Usuários de Internet, por acesso à Internet no domicílio}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cetic.br/pt/
+      \endverb
+      \verb{url}
+      \verb https://cetic.br/pt/
+      \endverb
+    \endentry
+    \entry{nicbr2025_ticempresas2024_b3}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee05cf54e307ab3ec978e5b52a84798a}{%
+           family={{Cetic}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação}%
+      }
+      \strng{namehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{fullhash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{bibnamehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{authorbibnamehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{authornamehash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \strng{authorfullhash}{ee05cf54e307ab3ec978e5b52a84798a}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cetic.br}
+      \field{note}{Tabelas. Indicador B3}
+      \field{title}{Pesquisa sobre o uso das tecnologias de informação e comunicação nas empresas brasileiras: TIC Empresas 2024 -- B3 - Empresas com acesso à Internet, por tipo de conexão}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cetic.br/pt/
+      \endverb
+      \verb{url}
+      \verb https://cetic.br/pt/
+      \endverb
+    \endentry
     \entry{demers1987epidemic}{inproceedings}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=be7e2bffd111b09f90dd36ebbcfe3014}{%
@@ -1582,43 +1658,6 @@
       \verb{url}
       \verb http://www.cs.colorado.edu/eskip/Home.html
       \endverb
-    \endentry
-    \entry{tanenbaum2015mos}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=2414455c999bc471f803cd14fdea939d}{%
-           family={Tanenbaum},
-           familyi={T\bibinitperiod},
-           given={Andrew\bibnamedelima S.},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=02997b67b6ffe1ea8e813dd2f362f33d}{%
-           family={Bos},
-           familyi={B\bibinitperiod},
-           given={Herbert},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Upper Saddle River}%
-      }
-      \list{publisher}{1}{%
-        {Pearson}%
-      }
-      \strng{namehash}{da75650913b9d6ae1cb262f4e7389a5c}
-      \strng{fullhash}{da75650913b9d6ae1cb262f4e7389a5c}
-      \strng{bibnamehash}{da75650913b9d6ae1cb262f4e7389a5c}
-      \strng{authorbibnamehash}{da75650913b9d6ae1cb262f4e7389a5c}
-      \strng{authornamehash}{da75650913b9d6ae1cb262f4e7389a5c}
-      \strng{authorfullhash}{da75650913b9d6ae1cb262f4e7389a5c}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{4}
-      \field{title}{Modern Operating Systems}
-      \field{year}{2015}
     \endentry
     \entry{tanenbaum2007dist}{book}{}
       \name{author}{2}{}{%

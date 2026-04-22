@@ -4,7 +4,9 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {1.1}PROMLEMÁTICA}{2}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {subsection}{\numberline {1.1}PROBLEMÁTICA}{1}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -19,7 +21,7 @@
 \contentsline {subsection}{\numberline {1.3}JUSTIFICATIVA}{3}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{4}{}%
+\contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{3}{}%
 \contentsline {section}{\numberline {2}METODOLOGIA}{4}{}%
 \contentsline {subsection}{\numberline {2.1}ACERCA DAS CATEGORIAS DA PESQUISA}{4}{}%
 \babel@toc {brazil}{}\relax 
@@ -36,7 +38,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {2.3}ACERCA DO DESENVOLVIMENTO DA APLICAÇÃO}{6}{}%
-\contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{7}{}%
+\contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{6}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -64,7 +66,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{10}{}%
+\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{9}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -74,7 +76,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.6}SISTEMAS \textit {OFFLINE-FIRST}}{11}{}%
@@ -86,7 +88,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.6.1}TEOREMA \textit {CAP}}{12}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}TEOREMA \textit {CAP}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -104,7 +106,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.7}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{14}{}%
+\contentsline {subsection}{\numberline {3.7}ESTRATÉGIA DE SINCRONIZAÇÃO: VETORES DE VERSÃO}{13}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -129,10 +131,12 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.10}AMBIENTE DE TESTES: \textit {DOCKER}}{16}{}%
+\contentsline {subsection}{\numberline {3.10}AMBIENTE DE TESTES: \textit {DOCKER}}{15}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{16}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

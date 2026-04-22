@@ -1,22 +1,29 @@
+\begin{comment}
+Adicionar:
+  - Colocar gráficos do Cetic
+
+Melhorar:
+
+Estrutura do conteúdo:
+  - Panorama da realidade com a indústria 4.0 (usar percentual do Cetic - https://cetic.br/pt/tics/tic-covid-19/painel-covid-19/integridade/A4W/) (feito)
+  - Destacar o espaço da computação móvel nesse cenário (usar percentual do CETIC para empresas: https://cetic.br/pt/tics/pesquisa/2024/empresas/B3/) (feito) 
+  - Destacar a importância de aplicações móveis que funcionam sem conexão (feito)
+  - Apresentar sistemas D2D
+  - Relacionar com sistemas distribuídos 
+  - Destacar a necessidade de intercomunicação entre aplicações e porque isso é essencial na atualidade com sistemas móveis
+  - Apontar as vantagens de sistemas que funcionam out of band (redes peer-to-peer)   
+
+\end{comment}
+
+
 \section{INTRODUÇÃO}
 
-Sistemas de \en{software} referenciam a infraestrutura disponibilizada pelo ambiente virtual da máquina de executar aplicações; desse modo, esses sistemas incluem o sistema operacional e outros \en{softwares} utilitários que oferecem serviços fundamentais \cite{tanenbaum2015mos}. Aplicações, portanto, são \en{softwares} que agregam funcionalidades adicionais a dispositivos (computadores, celulares, \en{tablets}, etc.) que o usuário necessita. Assim, Tanenbaum e Van Steen elucidam sobre o uso e a natureza de sistemas distribuídos:
-
-\begin{singlespace}
-  \begin{quote}
-    \setlength{\leftskip}{4cm}
-    \setlength{\rightskip}{0cm}
-    \normalsizefont
-    Os usuários (sejam pessoas ou programas) acreditam que estão lidando com um único sistema. Isso significa que, de uma forma ou de outra, os componentes autônomos precisam colaborar. A maneira de estabelecer essa colaboração está no cerne do desenvolvimento de sistemas distribuídos.
-        (TANENBAUM; STEEN, 2007, p. 2)
-  \end{quote}
-\end{singlespace}
-
-Estratégias de sincronização de dados são utilizadas em muitas aplicações, devido à necessidade de intercomunicação entre elas, como nas aplicações \en{web} descritas por Tanenbaum e Van Steen \cite{tanenbaum2007dist}. Desse modo, a exploração das soluções existentes, tanto do ponto de vista do uso dos recursos quanto do desenvolvimento de novas ferramentas é uma tarefa desafiadora para os desenvolvedores e útil para o mercado atual. Empresas que atuam na área rural, que utilizam equipamentos com contato intermitente com alguma rede (\en{internet} ou \en{intranet}) podem se beneficiar com uso de tecnologias com o perfil \en{offline}. E esse paradigma de desenvolvimento requer um planejamento sobre a aplicação da sincronização. 
+Segundo o Cetic (Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação), no seu Painel TIC 2025, é notável o crescente espaço que a tecnologia ocupa nas residêncas da população brasileira: a taxa de uso não é menor que 92\% em nenhuma das regiões do país, como pode ser notado na Figura 1. Nesse cenário, 94\% das pessoas entrevistadas nessa pesquisa acessam a \en{internet} através de telefones celulares apenas \cite{nicbr2026_paineltic2025_a4w}. Desse modo, as redes móveis (3G, 4G e 5G) são relevantes pois são o modo primário de conexão de dispositivos móveis; o Cetic destaca, na Figura 2, os tipos de conexão por empresa, nota-se que as redes móveis disputam com a conexão via cabo e ficam atrás apenas da fibra óptica \cite{nicbr2025_ticempresas2024_b3}. Logo, no Brasil, há um contexto onde a computação móvel é importante para o funcionamento de empresas e no cotidiano das pessoas.  
+Um fator importante na computação móvel é a conexão intermitente com redes, mais notávelmente a \en{internet}; como é notado por Feyerke, a desconexão com a rede não é um problema mas um requerimento de funcionamento de sistemas móveis \cite{feyerke2021offlinefirst}. Assim, o estudo e desenvolvimento de aplicações que visam o funcionamento primeiramente \en{offline} é essencial para o cenário atual.
 
 Logo, para esse trabalho será aplicada a construção de sistema no paradigma \en{Offline-First} dentro de uma rede \en{Peer-to-Peer}, devido aos desafios encontrados nesse tipo de rede para a sincronização das réplicas, assim criando uma rede \en{Device-to-Device} (\en{D2D}), onde os dispositivos se comunicam entre si de maneira independente. Não será o foco deste trabalho, no entanto, a descrição da instalação da rede e a discussão da construção da aplicação, mas sim a exploração das diferentes estratégias de sincronização e seu comportamento no contexto \en{Peer-to-Peer} de uma aplicação móvel.
 
-\subsection{PROMLEMÁTICA}
+\subsection{PROBLEMÁTICA}
 
 Com a crescente difusão da computação móvel, sistemas devem levar em consideração o funcionamento \en{offline}, isso implica em estratégias para lidar com conectividade intermitente \cite{feyerke2021offlinefirst}; esse problema se intesifica em redes \en{Peer-to-Peer} pois não há servidor central para coordernar a distribuição dados. Conforme o teorema \en{CAP} e o resultado de impossibilidade \en{FLP} um sistema deve realizar compromissos em relação a consistência ou disponibilidade no seu projeto, pois não é possível possuir esses dois fatores e tolerância a partição (essencial em sistemas distribuídos) \cite{CAPtheorem2012}, pois não há algoritmo determinisco capaz de encontrar consenso entre as réplicas em um contexto que assume falhas \cite{FLP1985}. Assim, o objetivo é manter a consistência total de dados entre as réplicas.
 
