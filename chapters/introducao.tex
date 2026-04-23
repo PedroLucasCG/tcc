@@ -8,8 +8,8 @@ Estrutura do conteúdo:
   - Panorama da realidade com a indústria 4.0 (usar percentual do Cetic - https://cetic.br/pt/tics/tic-covid-19/painel-covid-19/integridade/A4W/) (feito)
   - Destacar o espaço da computação móvel nesse cenário (usar percentual do CETIC para empresas: https://cetic.br/pt/tics/pesquisa/2024/empresas/B3/) (feito) 
   - Destacar a importância de aplicações móveis que funcionam sem conexão (feito)
-  - Apresentar sistemas D2D
-  - Relacionar com sistemas distribuídos 
+  - Apresentar sistemas D2D (feito)
+  - Relacionar com sistemas distribuídos (iniciar o paragrafo com exemplos de sistemas D2D) (feito)
   - Destacar a necessidade de intercomunicação entre aplicações e porque isso é essencial na atualidade com sistemas móveis
   - Apontar as vantagens de sistemas que funcionam out of band (redes peer-to-peer)   
 
@@ -18,8 +18,11 @@ Estrutura do conteúdo:
 
 \section{INTRODUÇÃO}
 
-Segundo o Cetic (Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação), no seu Painel TIC 2025, é notável o crescente espaço que a tecnologia ocupa nas residêncas da população brasileira: a taxa de uso não é menor que 92\% em nenhuma das regiões do país, como pode ser notado na Figura 1. Nesse cenário, 94\% das pessoas entrevistadas nessa pesquisa acessam a \en{internet} através de telefones celulares apenas \cite{nicbr2026_paineltic2025_a4w}. Desse modo, as redes móveis (3G, 4G e 5G) são relevantes pois são o modo primário de conexão de dispositivos móveis; o Cetic destaca, na Figura 2, os tipos de conexão por empresa, nota-se que as redes móveis disputam com a conexão via cabo e ficam atrás apenas da fibra óptica \cite{nicbr2025_ticempresas2024_b3}. Logo, no Brasil, há um contexto onde a computação móvel é importante para o funcionamento de empresas e no cotidiano das pessoas.  
-Um fator importante na computação móvel é a conexão intermitente com redes, mais notávelmente a \en{internet}; como é notado por Feyerke, a desconexão com a rede não é um problema mas um requerimento de funcionamento de sistemas móveis \cite{feyerke2021offlinefirst}. Assim, o estudo e desenvolvimento de aplicações que visam o funcionamento primeiramente \en{offline} é essencial para o cenário atual.
+Segundo o Cetic (Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação), no seu Painel TIC 2025, é notável o crescente espaço que a tecnologia ocupa nas residêncas da população brasileira: a taxa de uso não é menor que 92\% em nenhuma das regiões do país, como pode ser notado na Figura 1. Nesse cenário, 94\% das pessoas entrevistadas nessa pesquisa acessam a \en{internet} através de telefones celulares apenas \cite{nicbr2026_paineltic2025_a4w}. Desse modo, as redes móveis (3G, 4G e 5G) são relevantes pois são o modo primário de conexão de dispositivos móveis; o Cetic destaca, na Figura 2, os tipos de conexão por empresa, nota-se que as redes móveis disputam com a conexão via cabo e ficam atrás apenas da fibra óptica \cite{nicbr2025_ticempresas2024_b3}. Logo, no Brasil, há um contexto onde a computação móvel é importante para o funcionamento de empresas e no cotidiano das pessoas
+
+Um fator importante na computação móvel é a conexão intermitente com redes, mais notavelmente a \en{internet}; como é posto por Feyerke, a desconexão com a rede não é um problema mas um requerimento de funcionamento de sistemas móveis \cite{feyerke2021offlinefirst}. Assim, o estudo e desenvolvimento de aplicações que visam o funcionamento primeiramente \en{offline} é essencial para o cenário atual. Portanto, pode-se apresentar uma modalidade de conexão móvel: \en{device-to-device} (dispositivo a dispositivo), essa define troca de dados direta entre dispositivos de usuário próximos sem a necessidade de passar por uma estação base \cite{fasihi2025d2d}.
+
+Compartilhamento de arquivos via \en{Bluetooth}, comunicação \en{vehicle-to-vehicle} (veiculo-a-veiculo) onde veículos próximos compartilham informação entre si, \en{AirDrop}, dentre outros são exemplos de redes \en{D2D} onde os dispositivos da rede colaboram para realizar trabalho. Isso é uma característica de um sistema distribuído. O cerne de sistemas distribuídos é a maneira como componentes autônomos colaboram de modo que o usuário final acredite que está lidando com um único sistema \cite{tanenbaum2007dist}.
 
 Logo, para esse trabalho será aplicada a construção de sistema no paradigma \en{Offline-First} dentro de uma rede \en{Peer-to-Peer}, devido aos desafios encontrados nesse tipo de rede para a sincronização das réplicas, assim criando uma rede \en{Device-to-Device} (\en{D2D}), onde os dispositivos se comunicam entre si de maneira independente. Não será o foco deste trabalho, no entanto, a descrição da instalação da rede e a discussão da construção da aplicação, mas sim a exploração das diferentes estratégias de sincronização e seu comportamento no contexto \en{Peer-to-Peer} de uma aplicação móvel.
 

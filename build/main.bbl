@@ -515,6 +515,43 @@
       \verb 10.56201/jafm.v9.no6.2023.pg1.18
       \endverb
     \endentry
+    \entry{fasihi2025d2d}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=185f12bcdf993d5a246c3b56b2d8fe27}{%
+           family={Fasihi},
+           familyi={F\bibinitperiod},
+           given={Mohammad\bibnamedelima Reza},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70e65165fd599e0d8e40d93e29527361}{%
+           family={Mark},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55e8b580174597072199254500b09ad6}
+      \strng{fullhash}{55e8b580174597072199254500b09ad6}
+      \strng{bibnamehash}{55e8b580174597072199254500b09ad6}
+      \strng{authorbibnamehash}{55e8b580174597072199254500b09ad6}
+      \strng{authornamehash}{55e8b580174597072199254500b09ad6}
+      \strng{authorfullhash}{55e8b580174597072199254500b09ad6}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{eess.SY}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv preprint arXiv:2507.06946}
+      \field{month}{7}
+      \field{title}{Device-to-Device Communication in 5G/6G: Architectural Foundations and Convergence with Enabling Technologies}
+      \field{year}{2025}
+      \verb{eprint}
+      \verb 2507.06946
+      \endverb
+    \endentry
     \entry{feyerke2021offlinefirst}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bb95f3a3999896e45da13be223145904}{%

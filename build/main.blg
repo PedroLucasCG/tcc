@@ -1,17 +1,17 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'build/main.blg'
-[55] biber:340> INFO - === qua abr 22, 2026, 09:24:55
-[65] Biber.pm:418> INFO - Reading 'build/main.bcf'
-[109] Biber.pm:978> INFO - Found 39 citekeys in bib section 0
-[117] Biber.pm:4401> INFO - Processing section 0
-[124] Biber.pm:4592> INFO - Looking for bibtex file 'bibtex/refs.bib' for section 0
-[125] bibtex.pm:1713> INFO - LaTeX decoding ...
-[154] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/refs.bib'
-[361] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[361] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[361] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
-[361] Biber.pm:4227> INFO - No sort tailoring available for locale 'pt-BR'
-[389] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
-[407] bbl.pm:757> INFO - Output to build/main.bbl
-[407] Biber.pm:130> WARN - legacy year field 'n.d.' in entry 'OfflineFirst' is not an integer - this will probably not sort properly.
-[407] Biber.pm:132> INFO - WARNINGS: 1
+[55] biber:340> INFO - === qui abr 23, 2026, 08:58:35
+[66] Biber.pm:418> INFO - Reading 'build/main.bcf'
+[111] Biber.pm:978> INFO - Found 40 citekeys in bib section 0
+[119] Biber.pm:4401> INFO - Processing section 0
+[126] Biber.pm:4592> INFO - Looking for bibtex file 'bibtex/refs.bib' for section 0
+[128] bibtex.pm:1713> INFO - LaTeX decoding ...
+[157] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/refs.bib'
+[364] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[364] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[364] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[364] Biber.pm:4227> INFO - No sort tailoring available for locale 'pt-BR'
+[393] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[411] bbl.pm:757> INFO - Output to build/main.bbl
+[411] Biber.pm:130> WARN - legacy year field 'n.d.' in entry 'OfflineFirst' is not an integer - this will probably not sort properly.
+[411] Biber.pm:132> INFO - WARNINGS: 1
