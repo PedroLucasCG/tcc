@@ -10,8 +10,8 @@ Estrutura do conteúdo:
   - Destacar a importância de aplicações móveis que funcionam sem conexão (feito)
   - Apresentar sistemas D2D (feito)
   - Relacionar com sistemas distribuídos (iniciar o paragrafo com exemplos de sistemas D2D) (feito)
-  - Destacar a necessidade de intercomunicação entre aplicações e porque isso é essencial na atualidade com sistemas móveis
-  - Apontar as vantagens de sistemas que funcionam out of band (redes peer-to-peer)   
+  - Destacar a necessidade de intercomunicação entre aplicações e porque isso é essencial na atualidade com sistemas móveis (feito)
+  - Apontar as vantagens de sistemas que funcionam de maneira descentralizada (feito) 
 
 \end{comment}
 
@@ -22,9 +22,9 @@ Segundo o Cetic (Centro Regional de Estudos para o Desenvolvimento da Sociedade 
 
 Um fator importante na computação móvel é a conexão intermitente com redes, mais notavelmente a \en{internet}; como é posto por Feyerke, a desconexão com a rede não é um problema mas um requerimento de funcionamento de sistemas móveis \cite{feyerke2021offlinefirst}. Assim, o estudo e desenvolvimento de aplicações que visam o funcionamento primeiramente \en{offline} é essencial para o cenário atual. Portanto, pode-se apresentar uma modalidade de conexão móvel: \en{device-to-device} (dispositivo a dispositivo), essa define troca de dados direta entre dispositivos de usuário próximos sem a necessidade de passar por uma estação base \cite{fasihi2025d2d}.
 
-Compartilhamento de arquivos via \en{Bluetooth}, comunicação \en{vehicle-to-vehicle} (veiculo-a-veiculo) onde veículos próximos compartilham informação entre si, \en{AirDrop}, dentre outros são exemplos de redes \en{D2D} onde os dispositivos da rede colaboram para realizar trabalho. Isso é uma característica de um sistema distribuído. O cerne de sistemas distribuídos é a maneira como componentes autônomos colaboram de modo que o usuário final acredite que está lidando com um único sistema \cite{tanenbaum2007dist}.
+Compartilhamento de arquivos via \en{Bluetooth}, comunicação \en{vehicle-to-vehicle} (veículo-a-veículo) onde veículos próximos compartilham informação entre si, \en{AirDrop}, dentre outros são exemplos de redes \en{D2D} onde os dispositivos da rede colaboram para realizar trabalho. Isso é uma característica de um sistema distribuído. O cerne de sistemas distribuídos é a maneira como componentes autônomos colaboram de modo que o usuário final acredite que está lidando com um único sistema \cite{tanenbaum2007dist}. A intercomunicação entre aplicações é importante no contexto atual com o desenvolvimento da \en{internet} em espaços diversos, isso é mais aparente no contexto móvel onde, devido a limitações de consumo de energia, banda larga, processamento limitado (em dispositivos mais acessíveis), etc, sistemas devem ser pensados para diminuir seu impacto de operação \cite{AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas}. Assim, redes \en{D2D} são importantes pois possibilitam a divisão do trabalho entre os dispostivos conectados na rede, porém para o bom funcionamento é necessário orquestrar o trabalho realizado pelos componentes. 
 
-Logo, para esse trabalho será aplicada a construção de sistema no paradigma \en{Offline-First} dentro de uma rede \en{Peer-to-Peer}, devido aos desafios encontrados nesse tipo de rede para a sincronização das réplicas, assim criando uma rede \en{Device-to-Device} (\en{D2D}), onde os dispositivos se comunicam entre si de maneira independente. Não será o foco deste trabalho, no entanto, a descrição da instalação da rede e a discussão da construção da aplicação, mas sim a exploração das diferentes estratégias de sincronização e seu comportamento no contexto \en{Peer-to-Peer} de uma aplicação móvel.
+Logo, para esse trabalho será aplicada a construção de sistema no paradigma \en{Offline-First} dentro de uma rede \en{Peer-to-Peer}, devido aos desafios encontrados nesse tipo de rede para a sincronização das réplicas, assim criando uma rede \en{Device-to-Device}, onde os dispositivos se comunicam entre si de maneira independente. Não será o foco deste trabalho, no entanto, a descrição da instalação da rede e a discussão da construção da aplicação, mas sim a exploração das diferentes estratégias de sincronização e seu comportamento no contexto \en{Peer-to-Peer} de uma aplicação móvel.
 
 \subsection{PROBLEMÁTICA}
 
