@@ -26,6 +26,21 @@ Compartilhamento de arquivos via \en{Bluetooth}, comunicação \en{vehicle-to-ve
 
 Logo, para esse trabalho será aplicada a construção de sistema no paradigma \en{Offline-First} dentro de uma rede \en{Peer-to-Peer}, devido aos desafios encontrados nesse tipo de rede para a sincronização das réplicas, assim criando uma rede \en{Device-to-Device}, onde os dispositivos se comunicam entre si de maneira independente. Não será o foco deste trabalho, no entanto, a descrição da instalação da rede e a discussão da construção da aplicação, mas sim a exploração das diferentes estratégias de sincronização e seu comportamento no contexto \en{Peer-to-Peer} de uma aplicação móvel.
 
+\begin{comment}
+Adicionar:
+
+Melhorar:
+
+Estrutura do conteúdo:
+  - Revisar sobre o cenário da computação móvel destacando as limitações devido ao contexto
+  - Estabelecer a necessidade do estudo de estratégias de desenvolvimento de sistemas Offline-First
+  - Destacar sistemas descentralizados como uma alternativa a redes centralizadas
+  - Afunilar as estratégias apenas para as relacionadas a consistência de dados entre os pares
+  - Destacar o contexto de trabalhos realizados sobre estratégias de sincronização de dados (não comparam estratégias de contextos distintos, algumas não são aplicadas ao contexto descentralizado, como as epidêmicas)
+  - Destacar a necessidade de um comparativo entre as diversas estratégias de sincronização no contexto descentralizado de modo a possuir direcionamentos no desnvolvimento de aplicações offline-first que funcionam nesse contexto
+
+\end{comment}
+
 \subsection{PROBLEMÁTICA}
 
 Com a crescente difusão da computação móvel, sistemas devem levar em consideração o funcionamento \en{offline}, isso implica em estratégias para lidar com conectividade intermitente \cite{feyerke2021offlinefirst}; esse problema se intesifica em redes \en{Peer-to-Peer} pois não há servidor central para coordernar a distribuição dados. Conforme o teorema \en{CAP} e o resultado de impossibilidade \en{FLP} um sistema deve realizar compromissos em relação a consistência ou disponibilidade no seu projeto, pois não é possível possuir esses dois fatores e tolerância a partição (essencial em sistemas distribuídos) \cite{CAPtheorem2012}, pois não há algoritmo determinisco capaz de encontrar consenso entre as réplicas em um contexto que assume falhas \cite{FLP1985}. Assim, o objetivo é manter a consistência total de dados entre as réplicas.
