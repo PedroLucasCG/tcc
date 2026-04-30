@@ -28,6 +28,7 @@ Logo, para esse trabalho será aplicada a construção de sistema no paradigma \
 
 \begin{comment}
 Adicionar:
+  - Destacar a importância de guias
 
 Melhorar:
 
@@ -43,9 +44,9 @@ Estrutura do conteúdo:
 
 \subsection{PROBLEMÁTICA}
 
-Com a crescente difusão da computação móvel, sistemas devem levar em consideração o funcionamento \en{offline}, isso implica em estratégias para lidar com conectividade intermitente \cite{feyerke2021offlinefirst}; esse problema se intesifica em redes \en{Peer-to-Peer} pois não há servidor central para coordernar a distribuição dados. Conforme o teorema \en{CAP} e o resultado de impossibilidade \en{FLP} um sistema deve realizar compromissos em relação a consistência ou disponibilidade no seu projeto, pois não é possível possuir esses dois fatores e tolerância a partição (essencial em sistemas distribuídos) \cite{CAPtheorem2012}, pois não há algoritmo determinisco capaz de encontrar consenso entre as réplicas em um contexto que assume falhas \cite{FLP1985}. Assim, o objetivo é manter a consistência total de dados entre as réplicas.
+Com a crescente difusão da computação móvel, sistemas devem levar em consideração o funcionamento \en{offline}, isso implica em estratégias para lidar com conectividade intermitente \cite{feyerke2021offlinefirst}; esse problema se intesifica em redes \en{Peer-to-Peer} pois não há servidor central para coordernar a distribuição dados. Desse modo, é importante pensar sistemas a partir da perspectiva \en{Offline-First}, isso é ainda mais verdade quando em contextos onde a redes descentralizadas são mais adequadas que as centralizadas (comunicação entre veículos, por exemplo). Na construção de sistemas primariamente \en{offline} deve se considerar estratégias para gerenciar os recursos (energia, banda larga, processamento, etc), o mais notável desses recursos são os dados, pois não há como os componentes colaborarem sem consistência de dados.
 
-As estratégias de sincronização possibilitam a construção de sistemas pensados para o funcionamento \en{offline}, garantindo a consistência eventual entre as réplicas. Elas atendem a problemática de como sincronizar dados de forma eficiente e consistente. Assim, esse texto visa compreender os comportamentos, vantagens e limitações quando aplicadas a ambientes descentralizados. Os seguintes trabalhos realizam comprativos de modelos de consistência de dados: \en{Conflict-Free Replicated Data Types} \cite{Shapiro2015CRDT}, compara \en{CRDTs} com \en{OT}; \cite{ViottiVukolic2016Consistency} apresenta um estudo comparativo de modelos de consistência em sistemas distribuídos. No entanto, observa-se uma lacuna na literatura quanto a um estudo mais generalista e sistemático que compare, de forma abrangente, estratégias diversas de sincronização sob métricas e cenários comuns, particularmente em ambientes descentralizados.
+As estratégias de sincronização possibilitam a construção de sistemas pensados para o funcionamento \en{offline}, garantindo a consistência eventual entre as réplicas. Elas atendem a problemática de como sincronizar dados de forma eficiente e consistente. Assim, esse texto visa compreender os comportamentos, vantagens e limitações quando aplicadas a ambientes descentralizados. Os seguintes trabalhos realizam comprativos de modelos de consistência de dados: \en{Conflict-Free Replicated Data Types} \cite{Shapiro2015CRDT}, compara \en{CRDTs} com \en{OT}; \en{Consistency in Non-Transactional Distributed Storage Systems} \cite{ViottiVukolic2016Consistency} apresenta um estudo comparativo de modelos de consistência em sistemas distribuídos. Contudo, os trabalhos focam em mostrar uma estratégia em comparação com demais adjacentes, isso revela a necessidade de um estudo mais generalista que compare estratégias de sincronização distintas sob métricas e cenários comuns e, no caso deste texto, em ambientes descentralizados.
 
 \subsection{OBJETIVOS}
 
