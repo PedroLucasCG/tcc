@@ -1228,6 +1228,56 @@
       \field{pages}{558\bibrangedash 565}
       \range{pages}{8}
     \endentry
+    \entry{logeshwaran2023energy}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b8d0f5f085e11784121e7aaa9d920d07}{%
+           family={Logeshwaran},
+           familyi={L\bibinitperiod},
+           given={Jaganathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbc71f2fa35d8b5848034a6514168d94}{%
+           family={Shanmugasundaram},
+           familyi={S\bibinitperiod},
+           given={Nallasamy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fdf4561fc63eb609b4d2c1f36d072f7}{%
+           family={Lloret},
+           familyi={L\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4039ea040c241ebdf70caae36a7c9a3}
+      \strng{fullhash}{a4039ea040c241ebdf70caae36a7c9a3}
+      \strng{bibnamehash}{a4039ea040c241ebdf70caae36a7c9a3}
+      \strng{authorbibnamehash}{a4039ea040c241ebdf70caae36a7c9a3}
+      \strng{authornamehash}{a4039ea040c241ebdf70caae36a7c9a3}
+      \strng{authorfullhash}{a4039ea040c241ebdf70caae36a7c9a3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Communication Systems}
+      \field{number}{13}
+      \field{title}{Energy-efficient resource allocation model for device-to-device communication in 5G wireless personal area networks}
+      \field{volume}{36}
+      \field{year}{2023}
+      \field{pages}{e5524}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/dac.5524
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1002/dac.5524
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/dac.5524
+      \endverb
+    \endentry
     \entry{mattern1989virtual}{inproceedings}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e07c4272d13053fc36d770d4735f2c14}{%
@@ -1458,6 +1508,40 @@
       \field{year}{1983}
       \field{pages}{240\bibrangedash 246}
       \range{pages}{7}
+    \endentry
+    \entry{pothineni2024offlinefirst}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8da6647fe7c514b5555671de5457337d}{%
+           family={Pothineni},
+           familyi={P\bibinitperiod},
+           given={Sri\bibnamedelima Harsha},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8da6647fe7c514b5555671de5457337d}
+      \strng{fullhash}{8da6647fe7c514b5555671de5457337d}
+      \strng{bibnamehash}{8da6647fe7c514b5555671de5457337d}
+      \strng{authorbibnamehash}{8da6647fe7c514b5555671de5457337d}
+      \strng{authornamehash}{8da6647fe7c514b5555671de5457337d}
+      \strng{authorfullhash}{8da6647fe7c514b5555671de5457337d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{3006-4023}
+      \field{journaltitle}{Journal of Artificial Intelligence General Science (JAIGS)}
+      \field{note}{Received: 19 Oct. 2024; Accepted: 10 Nov. 2024; Published: 30 Dec. 2024}
+      \field{number}{1}
+      \field{title}{Offline-First Mobile Architecture: Enhancing Usability and Resilience in Mobile Systems}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{pages}{320\bibrangedash 326}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.60087
+      \endverb
     \endentry
     \entry{PreguicaBaqueroShapiro2018CRDT}{article}{}
       \name{author}{3}{}{%
@@ -1736,42 +1820,6 @@
       \field{note}{Disponível em: https://csc-knu.github.io/sys-prog/books/Andrew\%20S.\%20Tanenbaum\%20-\%20Distributed\%20Systems.\%20Principles\%20and\%20Paradigms.pdf. Acesso em: 20 jul. 2025}
       \field{title}{Sistemas distribuídos: princípios e paradigmas}
       \field{year}{2007}
-    \endentry
-    \entry{ViottiVukolic2016Consistency}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=aa7fe32cc6db1745a14ad74da154a585}{%
-           family={Viotti},
-           familyi={V\bibinitperiod},
-           given={Paolo},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=315162164fd9e68fe8c921224a6af08d}{%
-           family={Vukolić},
-           familyi={V\bibinitperiod},
-           given={Marko},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{28524c45bdfc050296049c1ee2d43c28}
-      \strng{fullhash}{28524c45bdfc050296049c1ee2d43c28}
-      \strng{bibnamehash}{28524c45bdfc050296049c1ee2d43c28}
-      \strng{authorbibnamehash}{28524c45bdfc050296049c1ee2d43c28}
-      \strng{authornamehash}{28524c45bdfc050296049c1ee2d43c28}
-      \strng{authorfullhash}{28524c45bdfc050296049c1ee2d43c28}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprintclass}{cs.DC}
-      \field{eprinttype}{arXiv}
-      \field{note}{arXiv preprint, v4 (12 Apr 2016)}
-      \field{title}{Consistency in Non-Transactional Distributed Storage Systems}
-      \field{year}{2016}
-      \verb{eprint}
-      \verb 1512.00168v4
-      \endverb
     \endentry
     \entry{weidner2023crdtsurvey}{misc}{}
       \name{author}{1}{}{%

@@ -10,13 +10,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {1.1}PROBLEMÁTICA}{2}{}%
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
-\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -141,6 +135,8 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{16}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
