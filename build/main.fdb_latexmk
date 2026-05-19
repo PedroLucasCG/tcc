@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1778721563 "build/main.bcf" "build/main.bbl" "build/main" 1778721572 0
-  "./bibtex/refs.bib" 1778720185 20724 3259c15594f5d8aa364a763d3939e67e ""
-  "build/main.bcf" 1778721572 117038 c5315d4adf6abd9fcf49ef894d12fd46 "pdflatex"
+["biber build/main"] 1779229922 "build/main.bcf" "build/main.bbl" "build/main" 1779230932 0
+  "./bibtex/refs.bib" 1779229820 21247 535b79136c54456a3f102d8dc59c74af ""
+  "build/main.bcf" 1779230932 117112 c01621eef856248d67f216f5e19d5dfa "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1778721569 "main.tex" "build/main.pdf" "main" 1778721572 0
+["pdflatex"] 1779230929 "main.tex" "build/main.pdf" "main" 1779230932 0
   "/etc/texmf/web2c/texmf.cnf" 1764768553 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -100,13 +100,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1764768571 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764768614 7880939 1da3996b291f4e64c55a6c83b1f007a5 ""
-  "build/main.aux" 1778721572 18513 7e4796ad413912b0c2fb1d67c0dca4fb "pdflatex"
-  "build/main.bbl" 1778721564 75164 532f2b5b38016bf8303b9f4d6977c5f0 "biber build/main"
-  "build/main.lof" 1778721572 6003 56bacfd2e5b121f1a36c9c94a836a6b7 "pdflatex"
-  "build/main.lot" 1778721572 6003 56bacfd2e5b121f1a36c9c94a836a6b7 "pdflatex"
-  "build/main.run.xml" 1778721572 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
-  "build/main.toc" 1778721572 7946 6d4a065e63b7f9a2b15c0a80660d85ef "pdflatex"
-  "chapters/introducao.tex" 1778721559 11178 04275b7b4a7eba13bd06c11535fafc35 ""
+  "build/main.aux" 1779230932 18798 c6ec1d6ef5fffb1e514ff0caa7ef4c20 "pdflatex"
+  "build/main.bbl" 1779229922 76870 c93325f406c38e656630f77ff8c66980 "biber build/main"
+  "build/main.lof" 1779230932 6119 b4256f45e9b5f0e4d11d1dd91826ab31 "pdflatex"
+  "build/main.lot" 1779230932 6119 b4256f45e9b5f0e4d11d1dd91826ab31 "pdflatex"
+  "build/main.run.xml" 1779230932 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
+  "build/main.toc" 1779230932 8063 b4e275003275dd225a1c64a65b8b1725 "pdflatex"
+  "chapters/introducao.tex" 1779230928 11942 d88a10d471b492d261b66448278009ae ""
   "chapters/metodologia.tex" 1770081232 5305 cab1a150a3bf7ba95b1c811c7018c01b ""
   "chapters/teorica/sections/cap.tex" 1774201865 1521 ae1e09900a6b361cd2cf7106c50c9467 ""
   "chapters/teorica/sections/crdt.tex" 1774202164 3039 8b08e815534a1a14c18f51596a5f2b49 ""

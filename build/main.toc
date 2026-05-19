@@ -17,12 +17,14 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {1.2}OBJETIVOS}{3}{}%
-\contentsline {subsection}{\numberline {1.3}JUSTIFICATIVA}{3}{}%
+\contentsline {subsection}{\numberline {1.3}JUSTIFICATIVA}{4}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{4}{}%
-\contentsline {section}{\numberline {2}METODOLOGIA}{4}{}%
+\contentsline {section}{\numberline {2}METODOLOGIA}{5}{}%
 \contentsline {subsection}{\numberline {2.1}ACERCA DAS CATEGORIAS DA PESQUISA}{5}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -32,7 +34,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {2.2}ACERDA DO MÉTODO CIENTÍFICO UTILIZADO}{5}{}%
+\contentsline {subsection}{\numberline {2.2}ACERDA DO MÉTODO CIENTÍFICO UTILIZADO}{6}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -61,7 +63,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.3}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{9}{}%
+\contentsline {subsection}{\numberline {3.3}LINGUAGEM DE PROGRAMAÇÃO: \textit {KOTLIN}}{10}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -71,7 +73,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.5}MODELO CLIENTE-SERVIDOR}{10}{}%
+\contentsline {subsection}{\numberline {3.5}MODELO CLIENTE-SERVIDOR}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -79,7 +81,7 @@
 \contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.6}SISTEMAS \textit {OFFLINE-FIRST}}{11}{}%
+\contentsline {subsection}{\numberline {3.6}SISTEMAS \textit {OFFLINE-FIRST}}{12}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -124,7 +126,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.9}BANCO DE DADOS: \textit {ROOM}}{15}{}%
+\contentsline {subsection}{\numberline {3.9}BANCO DE DADOS: \textit {ROOM}}{16}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -134,7 +136,9 @@
 \contentsline {subsection}{\numberline {3.10}AMBIENTE DE TESTES: \textit {DOCKER}}{16}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{16}{}%
+\contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{17}{}%
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

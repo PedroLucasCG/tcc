@@ -1821,6 +1821,45 @@
       \field{title}{Sistemas distribuídos: princípios e paradigmas}
       \field{year}{2007}
     \endentry
+    \entry{wang2024optimizing}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=60af9bc009f709103e587bb92cee1cda}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54b7c4ed61349e4284b747fb40ad5fdd}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuanyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9aff0a85909089771309b13de7256f5d}
+      \strng{fullhash}{9aff0a85909089771309b13de7256f5d}
+      \strng{bibnamehash}{9aff0a85909089771309b13de7256f5d}
+      \strng{authorbibnamehash}{9aff0a85909089771309b13de7256f5d}
+      \strng{authornamehash}{9aff0a85909089771309b13de7256f5d}
+      \strng{authorfullhash}{9aff0a85909089771309b13de7256f5d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Interactive Mobile Technologies (iJIM)}
+      \field{note}{Article submitted 2024-08-03, revised 2024-09-14, accepted 2024-09-18. Published under CC-BY license}
+      \field{number}{22}
+      \field{title}{Optimizing Offline Mode and Data Synchronization Techniques for Literature Translation Applications on Mobile Devices}
+      \field{volume}{18}
+      \field{year}{2024}
+      \field{pages}{115\bibrangedash 129}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.3991/ijim.v18i22.52451
+      \endverb
+    \endentry
     \entry{weidner2023crdtsurvey}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=429ed5b3307ce5054040af5163904ea1}{%
