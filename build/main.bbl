@@ -233,6 +233,63 @@
       \field{title}{An Introduction to the C Programming Language and Software Design}
       \field{year}{2005}
     \endentry
+    \entry{balatsouras2023wichord}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=35ccc997b71db57529daebbe3897f52a}{%
+           family={Balatsouras},
+           familyi={B\bibinitperiod},
+           given={Christos-Panagiotis},
+           giveni={C\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d9bf3f7b7e59004a7c426e566706cf8}{%
+           family={Karras},
+           familyi={K\bibinitperiod},
+           given={Aristeidis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=effc29a92e90bd3bd38399f754a2bbc5}{%
+           family={Karras},
+           familyi={K\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b71f9ba514c2e3d62291a39619ae216c}{%
+           family={Karydis},
+           familyi={K\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46f6f4891e7b71567b04ea706205bc21}{%
+           family={Sioutas},
+           familyi={S\bibinitperiod},
+           given={Spyros},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b98821d41b81a751c2fdb0485a08d113}
+      \strng{fullhash}{fed59204f835516802116a1d26c7b35b}
+      \strng{bibnamehash}{b98821d41b81a751c2fdb0485a08d113}
+      \strng{authorbibnamehash}{b98821d41b81a751c2fdb0485a08d113}
+      \strng{authornamehash}{b98821d41b81a751c2fdb0485a08d113}
+      \strng{authorfullhash}{fed59204f835516802116a1d26c7b35b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{note}{Received: 3 September 2023; Revised: 24 November 2023; Accepted: 27 November 2023; Published: 28 November 2023. Open Access, CC-BY License}
+      \field{number}{9486}
+      \field{title}{WiCHORD+: A Scalable, Sustainable, and P2P Chord-Based Ecosystem for Smart Agriculture Applications}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.3390/s23239486
+      \endverb
+    \endentry
     \entry{BjornHansen2018PWAUnifiedMobile}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=5c8e112d05da505cd7165215cfa04054}{%
