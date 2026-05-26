@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1779324747 "build/main.bcf" "build/main.bbl" "build/main" 1779325347 0
+["biber build/main"] 1779324747 "build/main.bcf" "build/main.bbl" "build/main" 1779325664 0
   "./bibtex/refs.bib" 1779324723 21818 f9af2bf11dbabeb18242911cb675b9bd ""
-  "build/main.bcf" 1779325347 117190 55191219e1062d9627685569a85a526a "pdflatex"
+  "build/main.bcf" 1779325664 117190 55191219e1062d9627685569a85a526a "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1779325344 "main.tex" "build/main.pdf" "main" 1779325347 0
+["pdflatex"] 1779325661 "main.tex" "build/main.pdf" "main" 1779325664 0
   "/etc/texmf/web2c/texmf.cnf" 1764768553 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -100,14 +100,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1764768571 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764768614 7880939 1da3996b291f4e64c55a6c83b1f007a5 ""
-  "build/main.aux" 1779325347 19093 434f9d5be6f65635e302494a0d60c959 "pdflatex"
+  "build/main.aux" 1779325664 19093 434f9d5be6f65635e302494a0d60c959 "pdflatex"
   "build/main.bbl" 1779324748 79266 88137536d223b3897fc874aefb68bee7 "biber build/main"
-  "build/main.lof" 1779325347 6235 1e18a2d7d80a89e707deccc2e53af0c1 "pdflatex"
-  "build/main.lot" 1779325347 6235 1e18a2d7d80a89e707deccc2e53af0c1 "pdflatex"
-  "build/main.run.xml" 1779325347 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
-  "build/main.toc" 1779325347 8179 fcdf6fc7ad365c68ec8dd8aabe7f939f "pdflatex"
+  "build/main.lof" 1779325664 6235 1e18a2d7d80a89e707deccc2e53af0c1 "pdflatex"
+  "build/main.lot" 1779325664 6235 1e18a2d7d80a89e707deccc2e53af0c1 "pdflatex"
+  "build/main.run.xml" 1779325664 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
+  "build/main.toc" 1779325664 8179 fcdf6fc7ad365c68ec8dd8aabe7f939f "pdflatex"
   "chapters/introducao.tex" 1779325344 11651 561f5afae94346e515185117e8d55688 ""
-  "chapters/metodologia.tex" 1770081232 5305 cab1a150a3bf7ba95b1c811c7018c01b ""
+  "chapters/metodologia.tex" 1779325660 5303 38fb25365718b1d792b4f5699a86a10b ""
   "chapters/teorica/sections/cap.tex" 1774201865 1521 ae1e09900a6b361cd2cf7106c50c9467 ""
   "chapters/teorica/sections/crdt.tex" 1774202164 3039 8b08e815534a1a14c18f51596a5f2b49 ""
   "chapters/teorica/sections/docker.tex" 1774210574 872 d5d685f79eefe6d13b0ea665d6a15b09 ""
