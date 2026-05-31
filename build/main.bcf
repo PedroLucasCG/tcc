@@ -2469,32 +2469,34 @@
     <bcf:citekey order="36" intorder="1">BjornHansen2018PWAUnifiedMobile</bcf:citekey>
     <bcf:citekey order="37" intorder="1">Guda2025OfflineFirstAndroidChat</bcf:citekey>
     <bcf:citekey order="38" intorder="1">AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">CAPtheorem2012</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">yang2019synchronous</bcf:citekey>
     <bcf:citekey order="40" intorder="1">FLP1985</bcf:citekey>
     <bcf:citekey order="41" intorder="1">Gomes2017VerifyingSEC</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">tanenbaum2007dist</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">weidner2023crdtsurvey</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">PreguicaBaqueroShapiro2018CRDT</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">SunEllis1998OperationalTransformation</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">GadeaIonescuIonescu2020ControlLoopOT</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">parker1983detection</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">preguica2010dotted</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">lamport1978time</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">mattern1989virtual</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">almeida2002versionstamps</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">Gomes2017VerifyingSEC</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">Gomes2017VerifyingSEC</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">Shapiro2015CRDT</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">GarciaMolinaUllmanWidom2002DatabaseSystems</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">AndroidJetpackRoom</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">GaffneyPrammerBrasfieldHippKennedyPatel2022</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">DockerOverviewDocs</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">lamport1978time</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">mattern1989virtual</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">parker1983detection</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">demers1987epidemic</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">Guda2025OfflineFirstAndroidChat</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">CAPtheorem2012</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">CAPtheorem2012</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">tanenbaum2007dist</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">weidner2023crdtsurvey</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">PreguicaBaqueroShapiro2018CRDT</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">SunEllis1998OperationalTransformation</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">GadeaIonescuIonescu2020ControlLoopOT</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">parker1983detection</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">preguica2010dotted</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">lamport1978time</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">mattern1989virtual</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">almeida2002versionstamps</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">Gomes2017VerifyingSEC</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">Gomes2017VerifyingSEC</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">Shapiro2015CRDT</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">GarciaMolinaUllmanWidom2002DatabaseSystems</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">AndroidJetpackRoom</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">GaffneyPrammerBrasfieldHippKennedyPatel2022</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">DockerOverviewDocs</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">lamport1978time</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">mattern1989virtual</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">parker1983detection</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">demers1987epidemic</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">AugustinYaminGeyerBarbosa2001RequisitosAplicacoesMoveisDistribuidas</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">Guda2025OfflineFirstAndroidChat</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

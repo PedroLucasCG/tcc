@@ -1943,6 +1943,62 @@
       \field{title}{A brief survey of CRDTs -- Part 1}
       \field{year}{2023}
     \endentry
+    \entry{yang2019synchronous}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=54a02adc1caa50ccff97346915e1b92d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Tian},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e161776488c9fbb396e5cbdcf42ec0d0}{%
+           family={Gifford},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ccd03d5c7371cc7ef94ba9df64347b3}{%
+           family={Haeberlen},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5263443700ebbb8ff43e55c8783815b6}{%
+           family={Phan},
+           familyi={P\bibinitperiod},
+           given={Linh\bibnamedelimb Thi\bibnamedelima Xuan},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{16ffa8d035af14422234ed8727cae0fe}
+      \strng{fullhash}{367627556df4ff27d06e7b454c9f1a62}
+      \strng{bibnamehash}{16ffa8d035af14422234ed8727cae0fe}
+      \strng{authorbibnamehash}{16ffa8d035af14422234ed8727cae0fe}
+      \strng{authornamehash}{16ffa8d035af14422234ed8727cae0fe}
+      \strng{authorfullhash}{367627556df4ff27d06e7b454c9f1a62}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 17th Workshop on Hot Topics in Operating Systems}
+      \field{isbn}{978-1-4503-6727-1/19/05}
+      \field{series}{HotOS '19}
+      \field{title}{The Synchronous Data Center}
+      \field{year}{2019}
+      \field{pages}{142\bibrangedash 148}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/3317550.3321442
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
