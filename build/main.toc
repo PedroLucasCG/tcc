@@ -19,13 +19,13 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {1.2}OBJETIVOS}{3}{}%
+\contentsline {subsection}{\numberline {1.2}OBJETIVOS}{4}{}%
 \contentsline {subsection}{\numberline {1.3}JUSTIFICATIVA}{4}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{4}{}%
+\contentsline {subsection}{\numberline {1.4}ESTRUTURA DO TRABALHO}{5}{}%
 \contentsline {section}{\numberline {2}METODOLOGIA}{5}{}%
 \contentsline {subsection}{\numberline {2.1}ACERCA DAS CATEGORIAS DA PESQUISA}{5}{}%
 \babel@toc {brazil}{}\relax 
@@ -42,7 +42,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {2.3}ACERCA DO DESENVOLVIMENTO DA APLICAÇÃO}{7}{}%
-\contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{7}{}%
+\contentsline {section}{\numberline {3}REFERÊNCIAL TEÓRICO}{8}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -70,7 +70,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{10}{}%
+\contentsline {subsection}{\numberline {3.4}LINGUAGEM DE PROGRAMAÇÃO: JAVA}{11}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -80,7 +80,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}REDES \textit {PEER-TO-PEER}}{12}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \contentsline {subsection}{\numberline {3.6}SISTEMAS \textit {OFFLINE-FIRST}}{12}{}%
@@ -92,7 +92,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsubsection}{\numberline {3.6.1}COMUNICAÇÃO ASSÍNCRONA E SEUS DESAFIOS}{12}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}COMUNICAÇÃO ASSÍNCRONA E SEUS DESAFIOS}{13}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -132,7 +132,7 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.9}BANCO DE DADOS: \textit {ROOM}}{16}{}%
+\contentsline {subsection}{\numberline {3.9}BANCO DE DADOS: \textit {ROOM}}{17}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
@@ -142,7 +142,7 @@
 \contentsline {subsection}{\numberline {3.10}AMBIENTE DE TESTES: \textit {DOCKER}}{17}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
-\contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{17}{}%
+\contentsline {subsection}{\numberline {3.11}TRABALHOS RELACIONADOS}{18}{}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
