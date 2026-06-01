@@ -22,7 +22,15 @@ Sistemas \en{Offline-First} permitem a sincronização eventual dos dados para n
 
 O desafio principal desse modo de comunicação é o acordo entre processos remotos. Em um cenário ideal todos os processos retornariam uma resposta em tempo razoável porém como é destacado no resultado de impossibilidade \en{FLP}, um sistema completamente assíncrono, isso é, em um sistema onde não há garantia de quando uma menssagem será entregue, não existe algoritmo determinístico capaz de encontrar consenso desde que o sistema assuma pelo menos uma falha de execução. Desse modo, entendendo o contexto com conectividade intermitente, é necessário, na construção de sistemas reais, relaxar a assincronicidade \cite{FLP1985}; por exemplo, ao aplicar mecanismos como: consistência eventual forte \cite{Gomes2017VerifyingSEC} ou \en{CRDTs}.
 
-Para melhor entendimento da construção de sistemas onde há processos remotos colaborando há o Teorema \en{CAP}. Este define um \en{tradeoff} entre consistência e disponibilidade em sistemas distribuídos não confiáveis. Apresentado por Eric Brewer através de um exemplo generalista de serviço \en{web} para demonstrar essa troca entre disponibilidade, consistência e tolerância a partição. Consistência sendo a capacidade do serviço de retornar a resposta correta para uma requisição; Disponibilidade é a garantia de toda requisição receber uma resposta, mesmo que eventualmente; e, tolerância a partição, este é a capacidade serviço de permanecer funcionando mesmo no caso de perda de comunicação \cite{CAPtheorem2012}.
+Para melhor entendimento da construção de sistemas onde há processos remotos colaborando há o Teorema \en{CAP}, observe a Figura \ref{fig:cap}. Este define um \en{tradeoff} entre consistência e disponibilidade em sistemas distribuídos não confiáveis. Apresentado por Eric Brewer através de um exemplo generalista de serviço \en{web} para demonstrar essa troca entre disponibilidade, consistência e tolerância a partição. Consistência sendo a capacidade do serviço de retornar a resposta correta para uma requisição; Disponibilidade é a garantia de toda requisição receber uma resposta, mesmo que eventualmente; e, tolerância a partição, este é a capacidade serviço de permanecer funcionando mesmo no caso de perda de comunicação \cite{CAPtheorem2012}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.9\textwidth]{images/CAP.png}
+    \caption{MODELO CAP NA VISÃO DE SISTEMAS OFFLINE-FIRST}
+    \label{fig:cap}
+\end{figure}
+
 
 Na comunicação assíncrona a tolerância à partição, isso é, tolerância à falta de conexão a rede, é essencial. Logo a escolha se baseia entre disponibilidade e consistência. Um sistema que prioriza disponibilidade assume a possibilidade de que processos remotos estejam com versões distintas dos dados; por outro lado, um sistema que prioriza consistência assume a inutilização de um processo até que este esteja com a versão de dados corrente \cite{CAPtheorem2012}. Percebe-se, em ambos os sistemas, a necessidade da sincronização de dados entre os pares.
 

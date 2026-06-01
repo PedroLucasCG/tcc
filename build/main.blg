@@ -1,18 +1,18 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'build/main.blg'
-[56] biber:340> INFO - === dom mai 31, 2026, 16:10:07
+[55] biber:340> INFO - === seg jun  1, 2026, 20:23:57
 [66] Biber.pm:418> INFO - Reading 'build/main.bcf'
-[109] Biber.pm:978> INFO - Found 44 citekeys in bib section 0
+[110] Biber.pm:978> INFO - Found 44 citekeys in bib section 0
 [117] Biber.pm:4401> INFO - Processing section 0
-[123] Biber.pm:4592> INFO - Looking for bibtex file 'bibtex/refs.bib' for section 0
-[125] bibtex.pm:1713> INFO - LaTeX decoding ...
-[156] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/refs.bib'
-[380] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[380] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[380] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
-[380] Biber.pm:4227> INFO - No sort tailoring available for locale 'pt-BR'
-[410] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
-[430] bbl.pm:757> INFO - Output to build/main.bbl
-[430] Biber.pm:130> WARN - legacy year field 'n.d.' in entry 'OfflineFirst' is not an integer - this will probably not sort properly.
-[431] Biber.pm:130> WARN - ISBN '978-1-4503-6727-1/19/05' in entry 'yang2019synchronous' is invalid - run biber with '--validate_datamodel' for details.
-[431] Biber.pm:132> INFO - WARNINGS: 2
+[124] Biber.pm:4592> INFO - Looking for bibtex file 'bibtex/refs.bib' for section 0
+[126] bibtex.pm:1713> INFO - LaTeX decoding ...
+[159] bibtex.pm:1518> INFO - Found BibTeX data source 'bibtex/refs.bib'
+[391] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[392] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[392] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[392] Biber.pm:4227> INFO - No sort tailoring available for locale 'pt-BR'
+[423] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[444] bbl.pm:757> INFO - Output to build/main.bbl
+[444] Biber.pm:130> WARN - legacy year field 'n.d.' in entry 'OfflineFirst' is not an integer - this will probably not sort properly.
+[444] Biber.pm:130> WARN - ISBN '978-1-4503-6727-1/19/05' in entry 'yang2019synchronous' is invalid - run biber with '--validate_datamodel' for details.
+[444] Biber.pm:132> INFO - WARNINGS: 2
