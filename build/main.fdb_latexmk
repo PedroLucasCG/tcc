@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1780652366 "build/main.bcf" "build/main.bbl" "build/main" 1780997628 0
+["biber build/main"] 1780998684 "build/main.bcf" "build/main.bbl" "build/main" 1780998753 0
   "./bibtex/refs.bib" 1780251995 22293 946ff1e867527717422239e090670229 ""
-  "build/main.bcf" 1780997628 116981 2dccf1687172ca0f1f52e708ea316a63 "pdflatex"
+  "build/main.bcf" 1780998752 117142 11cfdac6f58b564e9b43d2fdf9e4a23c "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1780997625 "main.tex" "build/main.pdf" "main" 1780997628 0
+["pdflatex"] 1780998749 "main.tex" "build/main.pdf" "main" 1780998753 0
   "/etc/texmf/web2c/texmf.cnf" 1764768553 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -128,13 +128,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1764768571 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1764768614 7880939 1da3996b291f4e64c55a6c83b1f007a5 ""
-  "build/main.aux" 1780997628 20401 d6e82595b8257cbae8e080469620b7cd "pdflatex"
-  "build/main.bbl" 1780652366 78500 b38ac0195e23d8bd0b879120efe61b97 "biber build/main"
-  "build/main.lof" 1780997628 6509 f14cb3843e9d41333783682b5974dac1 "pdflatex"
-  "build/main.lot" 1780997628 6119 b4256f45e9b5f0e4d11d1dd91826ab31 "pdflatex"
-  "build/main.out" 1780997628 4641 e85ec521b18921a568f82868e181ec8c "pdflatex"
-  "build/main.run.xml" 1780997628 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
-  "build/main.toc" 1780997628 8421 112be9ec8b2b7ff07e4417a12680bfa9 "pdflatex"
+  "build/main.aux" 1780998752 20711 f014a0cb6c419af2e6e434794dc9cf8f "pdflatex"
+  "build/main.bbl" 1780998685 78500 b38ac0195e23d8bd0b879120efe61b97 "biber build/main"
+  "build/main.lof" 1780998752 6625 f70d38bdf265b25962cde0d441af5cb0 "pdflatex"
+  "build/main.lot" 1780998752 6235 1e18a2d7d80a89e707deccc2e53af0c1 "pdflatex"
+  "build/main.out" 1780998752 4641 e85ec521b18921a568f82868e181ec8c "pdflatex"
+  "build/main.run.xml" 1780998752 2409 c334eda8cb291beb2a8d755f0859f7c8 "pdflatex"
+  "build/main.toc" 1780998752 8537 fa3a5457b17559ee29d7090bd029c1e1 "pdflatex"
   "chapters/introducao.tex" 1780307415 12140 402769888f9651e3d480e844fab9ff08 ""
   "chapters/metodologia.tex" 1779325660 5303 38fb25365718b1d792b4f5699a86a10b ""
   "chapters/teorica/sections/cap.tex" 1780354902 3980 5b0a2b369b82176b29b9c7ea0d792db7 ""
@@ -150,7 +150,7 @@
   "chapters/teorica/sections/sec.tex" 1780356531 2065 3920890cb1d3b50bc96028baee0907b5 ""
   "chapters/teorica/sections/sistemas_distri_internet.tex" 1775736611 3390 b11a61463a2c9294a78e21247f7d9896 ""
   "chapters/teorica/sections/vetore_versao.tex" 1774209446 1890 059ff5249336aec3ddc48b5ab466eab9 ""
-  "chapters/teorica/teorica.tex" 1780997613 4827 382fdf3270257170a1e8807af1178eeb ""
+  "chapters/teorica/teorica.tex" 1780998749 5500 eddda02bda71deafd38883e87acf7b21 ""
   "images/CAP.png" 1780270194 1222137 c39ecc3ae8f33a96824402fc74b65339 ""
   "images/coat_of_armas.png" 1764848118 277609 d0dfd5b3b1f679dbcf6e5afad1d0372a ""
   "images/intro_fig_1.png" 1780306957 27925 124fa11047b55c77c12b98d72a3e7021 ""
